@@ -33,12 +33,26 @@ https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/30
 #EXTINF:-1 tvg-id="MRT2.al" tvg-name="MRT 2",MRT 2
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/26
+#EXTINF:-1 tvg-id="T7.al" tvg-name="T7 HD",T7 HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/16
 #EXTINF:-1 tvg-id="SYRITV.al" tvg-name="SYRI TV HD",SYRI TV HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/33
 #EXTINF:-1 tvg-id="Kanal10.al" tvg-name="Kanal 10 HD",Kanal 10 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/17
+#EXTINF:-1 tvg-id="MFestive1.al" tvg-name="M Festive 1 HD",M Festive 1 HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/99
+#EXTINF:-1 tvg-id="MFestive2.al" tvg-name="M Festive 2 HD",M Festive 2 HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/100
+#EXTINF:-1 tvg-id="MFestive3.al" tvg-name="M Festive 3 HD",M Festive 3 HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/101
 #EXTINF:-1 tvg-id="TVDielli.al" tvg-name="TV Dielli HD",TV Dielli HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/21
+#EXTINF:-1 tvg-id="ATV.al" tvg-name="ATV HD",ATV HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/29
+#EXTINF:-1 tvg-id="ACTVUSA.al" tvg-name="ACTV USA HD",ACTV USA HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/31
+#EXTINF:-1 tvg-id="ALBUK.al" tvg-name="ALBUK HD",ALBUK HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/32
 #EXTINF:-1 tvg-id="TVKlan.al" tvg-name="TV Klan HD",TV Klan HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/11
 #EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD",Klan Plus HD
@@ -47,8 +61,8 @@ https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/13
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel HD",Top Channel HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/14
-#EXTINF:-1 tvg-id="T7.al" tvg-name="T7 HD",T7 HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/16
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD",Vizion Plus HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/18
 #EXTINF:-1 tvg-id="AlsatM.al" tvg-name="AlsatM HD",AlsatM HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/1
 #EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1 HD",RTSH 1 HD
@@ -61,48 +75,6 @@ https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 #EXTINF:-1,RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:-1 tvg-id="ShenjaTV.al" tvg-name="Shenja TV",Shenja TV
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/2
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD",Vizion Plus HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/18
-#EXTINF:-1 tvg-id="EraTV.al" tvg-name="Era TV HD",Era TV HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/19
-#EXTINF:-1 tvg-id="ATV.al" tvg-name="ATV HD",ATV HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/29
-#EXTINF:-1 tvg-id="ACTVUSA.al" tvg-name="ACTV USA HD",ACTV USA HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/31
-#EXTINF:-1 tvg-id="ALBUK.al" tvg-name="ALBUK HD",ALBUK HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/32
-#EXTINF:-1 tvg-id="Zjarr.al" tvg-name="Zjarr HD",Zjarr HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/35
-#EXTINF:-1 tvg-id="TVMitrovica.al" tvg-name="TV Mitrovica",TV Mitrovica
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/37
-#EXTINF:-1 tvg-id="Tropoja.al" tvg-name="Tropoja HD",Tropoja HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/39
-#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN HD",A2 CNN HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/20
-#EXTINF:-1 tvg-id="TopChannelNews.al" tvg-name="Top Channel News HD",Top Channel News HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/41
-#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 HD",News 24 HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/42
-#EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-name="Euronews Albania HD",Euronews Albania HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/43
-#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV HD",Report TV HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/44
-#EXTINF:-1 tvg-id="abcNews.al" tvg-name="abc News HD",abc News HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/45
-#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News HD",Ora News HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/46
-#EXTINF:-1 tvg-id="KlanNews.al" tvg-name="Klan News HD",Klan News HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/47
-#EXTINF:-1 tvg-id="AlJazeera.al" tvg-name="Al Jazeera HD",Al Jazeera HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/48
-#EXTINF:-1 tvg-id="FoxNews.al" tvg-name="Fox News",Fox News
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/50
-#EXTINF:-1 tvg-id="Arta.al" tvg-name="Arta HD",Arta HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/51
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.al" tvg-name="Al Jazeera HD English",Al Jazeera HD English
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/52
 #EXTINF:-1 tvg-id="BigBrotherVIP1Albania.al" tvg-name="Big Brother VIP 1 HD Albania",Big Brother VIP 1 HD Albania
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/53
 #EXTINF:-1 tvg-id="BigBrotherVIP2Albania.al" tvg-name="Big Brother VIP 2 HD Albania",Big Brother VIP 2 HD Albania
@@ -141,6 +113,40 @@ https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/70
 #EXTINF:-1 tvg-id="TringFesta.al" tvg-name="Tring Festa HD",Tring Festa HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/71
+#EXTINF:-1 tvg-id="ShenjaTV.al" tvg-name="Shenja TV",Shenja TV
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/2
+#EXTINF:-1 tvg-id="EraTV.al" tvg-name="Era TV HD",Era TV HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/19
+#EXTINF:-1 tvg-id="Zjarr.al" tvg-name="Zjarr HD",Zjarr HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/35
+#EXTINF:-1 tvg-id="TVMitrovica.al" tvg-name="TV Mitrovica",TV Mitrovica
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/37
+#EXTINF:-1 tvg-id="Tropoja.al" tvg-name="Tropoja HD",Tropoja HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/39
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN HD",A2 CNN HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/20
+#EXTINF:-1 tvg-id="TopChannelNews.al" tvg-name="Top Channel News HD",Top Channel News HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/41
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 HD",News 24 HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/42
+#EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-name="Euronews Albania HD",Euronews Albania HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/43
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV HD",Report TV HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/44
+#EXTINF:-1 tvg-id="abcNews.al" tvg-name="abc News HD",abc News HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/45
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News HD",Ora News HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/46
+#EXTINF:-1 tvg-id="KlanNews.al" tvg-name="Klan News HD",Klan News HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/47
+#EXTINF:-1 tvg-id="AlJazeera.al" tvg-name="Al Jazeera HD",Al Jazeera HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/48
+#EXTINF:-1 tvg-id="FoxNews.al" tvg-name="Fox News",Fox News
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/50
+#EXTINF:-1 tvg-id="Arta.al" tvg-name="Arta HD",Arta HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/51
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.al" tvg-name="Al Jazeera HD English",Al Jazeera HD English
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/52
 #EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/72
 #EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
@@ -171,12 +177,6 @@ https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/97
 #EXTINF:-1 tvg-id="KinemaShqip+.al" tvg-name="Kinema Shqip+ HD",Kinema Shqip+ HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/98
-#EXTINF:-1 tvg-id="MFestive1.al" tvg-name="M Festive 1 HD",M Festive 1 HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/99
-#EXTINF:-1 tvg-id="MFestive2.al" tvg-name="M Festive 2 HD",M Festive 2 HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/100
-#EXTINF:-1 tvg-id="MFestive3.al" tvg-name="M Festive 3 HD",M Festive 3 HD
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/101
 #EXTINF:-1 tvg-id="KanalDDrama.al" tvg-name="Kanal D Drama",Kanal D Drama
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/104
 #EXTINF:-1 tvg-id="TringStories.al" tvg-name="Tring Stories HD",Tring Stories HD
