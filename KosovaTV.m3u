@@ -1,40 +1,63 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/albania1.xml.gz,https://www.open-epg.com/files/croatia1.xml.gz,https://www.open-epg.com/files/croatia3.xml.gz"
-#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="AlsatM HD",AlsatM HD
+#EXTM3U
+#EXTINF:-1,RTK 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/1
-#EXTINF:-1 tvg-id="ShenjaTV.al" tvg-name="Shenja TV",Shenja TV
+#EXTINF:-1,RTK 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/2
-#EXTINF:-1 tvg-id="RTK1.al" tvg-name="RTK 1 HD",RTK 1 HD
+#EXTINF:-1,RTK 3 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/3
-#EXTINF:-1 tvg-id="RTK2.al" tvg-name="RTK 2 HD",RTK 2 HD
+#EXTINF:-1,RTK 4 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/4
-#EXTINF:-1 tvg-id="RTK3.al" tvg-name="RTK 3 HD",RTK 3 HD
+#EXTINF:-1,RTV 21 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/5
-#EXTINF:-1 tvg-id="RTK4.al" tvg-name="RTK 4 HD",RTK 4 HD
+#EXTINF:-1,RTV 21 Macedoni
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/6
-#EXTINF:-1 tvg-id="RTV21.al" tvg-name="RTV 21 HD",RTV 21 HD
+#EXTINF:-1,RTV 21 Popullore HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/7
-#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="Klan Kosova HD",Klan Kosova HD
+#EXTINF:-1,First Channel HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/8
-#EXTINF:-1 tvg-id="FirstChannel.al" tvg-name="First Channel HD",First Channel HD
+#EXTINF:-1,KTV Kohavision HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/9
-#EXTINF:-1 tvg-id="TV Dukagjini.al" tvg-name="Dukagjini HD",Dukagjini HD
+#EXTINF:-1,TV Koha HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/10
-#EXTINF:-1 tvg-id="TVKlan.al" tvg-name="TV Klan HD",TV Klan HD
+#EXTINF:-1,Klan Kosova HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/11
-#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD",Klan Plus HD
+#EXTINF:-1,Dukagjini HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/12
-#EXTINF:-1 tvg-id="KlanNews.al" tvg-name="Klan News HD",Klan News HD
+#EXTINF:-1,MRT 2
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/13
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel HD",Top Channel HD
+#EXTINF:-1,TeVe1 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/14
-#EXTINF:-1 tvg-id="KTVKohavision.al" tvg-name="KTV Kohavision HD",KTV Kohavision HD
+#EXTINF:-1,T7 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/15
-#EXTINF:-1 tvg-id="T7.al" tvg-name="T7 HD",T7 HD
+#EXTINF:-1,Kanal 10 HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/16
-#EXTINF:-1 tvg-id="Kanal10.al" tvg-name="Kanal 10 HD",Kanal 10 HD
+#EXTINF:-1,Syri TV HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/17
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD",Vizion Plus HD
+#EXTINF:-1,AlsatM HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/18
+#EXTINF:-1,Shenja TV
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/19
+#EXTINF:-1,TV Klan HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/20
+#EXTINF:-1,Klan Plus HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/21
+#EXTINF:-1,Klan News HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/22
+#EXTINF:-1,Top Channel HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/23
+#EXTINF:-1,Vizion Plus HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/24
+#EXTINF:-1,RTSH 1 HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/25
+#EXTINF:-1,RTSH 2 HD
+https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/26
+#EXTINF:-1,RTSH 24 HD
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+#EXTINF:-1,RTSH Shqip
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+#EXTINF:-1,RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 #EXTINF:-1 tvg-id="EraTV.al" tvg-name="Era TV HD",Era TV HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/19
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN HD",A2 CNN HD
@@ -183,8 +206,7 @@ https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/113
 #EXTINF:-1 tvg-id="TOPESTRADA.al" tvg-name="TOPESTRADA HD",TOPESTRADA HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/114
-#EXTINF:-1 tvg-id="RTV21Popullore.al" tvg-name="RTV21 Popullore",RTV21 Popullore
-https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/115
+
 #EXTINF:-1 tvg-id="Folk+.al" tvg-name="Folk+ HD",Folk+ HD
 https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2ab9daf53a8a78d4bb078b2b32/116
 #EXTINF:-1 tvg-id="bbfMusicTV.al" tvg-name="bbf Music TV",bbf Music TV
@@ -416,18 +438,6 @@ https://mn.shikoshqip.live:2083/kanaliim/56df19714c1db9ef6c4a3a29c90fb3c3da3f0e2
 
 #EXTINF:-1,RTSH 1 OTT
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
-
-#EXTINF:-1,RTSH 2
-http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
-
-#EXTINF:-1,RTSH 24
-http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
-
-#EXTINF:-1,RTSH Shqip
-http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
-
-#EXTINF:-1,RTSH Sport
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 
 #EXTINF:-1,CNA TV
 https://live1.mediadesk.al/cnatvlive.m3u8
