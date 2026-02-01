@@ -491,12 +491,6 @@ https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="DeutscheWelleDE+.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle (EN)" tvg-id="DeutscheWelleEN.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle (EN)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-name="ARD Event 2" tvg-id="ARDEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 2
@@ -519,8 +513,6 @@ https://zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8
 https://zdf-hls-09.akamaized.net/hls/live/2016304/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 10" tvg-id="ZDFEvent10.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 10
 https://zdf-hls-10.akamaized.net/hls/live/2016305/de/high/master.m3u8
-#EXTINF:-1 group-title="Sportschau",Sportschau Event 00
-https://sportschau-event.ard-mcdn.de/sportschau/event00/hls/de/master.m3u8
 #EXTINF:-1 group-title="Sportschau",Sportschau Event 01
 https://sportschau-event.ard-mcdn.de/sportschau/event01/hls/de/master.m3u8
 #EXTINF:-1 group-title="Sportschau",Sportschau Event 02
