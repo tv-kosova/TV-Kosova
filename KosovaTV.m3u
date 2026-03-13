@@ -1,1003 +1,680 @@
-#EXTM3U
-url-tvg=“https://www.open-epg.com/files/albania1.xml.gz,https://www.open-epg.com/files/croatia1.xml.gz,https://www.open-epg.com/files/croatia3.xml.gz”
-#EXTINF:-1 tvg-id=“RTK1.al” tvg-name=“RTK 1 HD”,RTK 1 HD
+#EXTM3U url-tvg="https://www.open-epg.com/files/albania1.xml.gz,https://www.open-epg.com/files/croatia1.xml.gz,https://www.open-epg.com/files/croatia3.xml.gz"
+#EXTINF:-1 tvg-id="RTK1.al" tvg-name="RTK 1 HD",RTK 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/3
-#EXTINF:-1 tvg-id=“RTK2.al” tvg-name=“RTK 2 HD”,RTK 2 HD
+#EXTINF:-1 tvg-id="RTK2.al" tvg-name="RTK 2 HD",RTK 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/4
-#EXTINF:-1 tvg-id=“RTK3.al” tvg-name=“RTK 3 HD”,RTK 3 HD
+#EXTINF:-1 tvg-id="RTK3.al" tvg-name="RTK 3 HD",RTK 3 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/5
-#EXTINF:-1 tvg-id=“RTK4.al” tvg-name=“RTK 4 HD”,RTK 4 HD
+#EXTINF:-1 tvg-id="RTK4.al" tvg-name="RTK 4 HD",RTK 4 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/6
-#EXTINF:-1 tvg-id=“RTV21.al” tvg-name=“RTV 21 HD”,RTV 21 HD
+#EXTINF:-1 tvg-id="RTV21.al" tvg-name="RTV 21 HD",RTV 21 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/7
-#EXTINF:-1 tvg-id=“RTV21Maqedoni.al” tvg-name=“RTV 21 Maqedoni”,RTV 21
-Maqedoni
+#EXTINF:-1 tvg-id="RTV21Maqedoni.al" tvg-name="RTV 21 Maqedoni",RTV 21 Maqedoni
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/27
-#EXTINF:-1 tvg-id=“RTV21Popullore.al” tvg-name=“RTV21 Popullore”,RTV21
-Popullore
+#EXTINF:-1 tvg-id="RTV21Popullore.al" tvg-name="RTV21 Popullore",RTV21 Popullore
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/115
-#EXTINF:-1,RTV 21 Mix https://t2.tvmak.com/tv/RTV21MIX.m3u8 #EXTINF:-1
-tvg-id=“RTV21Plus.al”,RTV 21 Plus https://t2.tvmak.com/tv/RTV21PLUS.m3u8
-#EXTINF:-1 tvg-id=“RTV21Junior.al”,RTV 21 Junior
-https://t2.tvmak.com/tv/RTV21JUNIOR.m3u8 #EXTINF:-1
-tvg-id=“KTVKohavision.al” tvg-name=“KTV Kohavision HD”,KTV Kohavision HD
+#EXTINF:-1,RTV 21 Mix
+https://t2.tvmak.com/tv/RTV21MIX.m3u8
+#EXTINF:-1 tvg-id="RTV21Plus.al",RTV 21 Plus
+https://t2.tvmak.com/tv/RTV21PLUS.m3u8
+#EXTINF:-1 tvg-id="RTV21Junior.al",RTV 21 Junior
+https://t2.tvmak.com/tv/RTV21JUNIOR.m3u8
+#EXTINF:-1 tvg-id="KTVKohavision.al" tvg-name="KTV Kohavision HD",KTV Kohavision HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/15
-#EXTINF:-1 tvg-id=“TVKoha.al” tvg-name=“TV Koha HD”,TV Koha HD
+#EXTINF:-1 tvg-id="TVKoha.al" tvg-name="TV Koha HD",TV Koha HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/22
-#EXTINF:-1 tvg-id=“KlanKosova.al” tvg-name=“Klan Kosova HD”,Klan Kosova
-HD
+#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="Klan Kosova HD",Klan Kosova HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/8
-#EXTINF:-1 tvg-id=“FirstChannel.al” tvg-name=“First Channel HD”,First
-Channel HD
+#EXTINF:-1 tvg-id="FirstChannel.al" tvg-name="First Channel HD",First Channel HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/9
-#EXTINF:-1 tvg-id=“TV Dukagjini.al” tvg-name=“Dukagjini HD”,Dukagjini HD
+#EXTINF:-1 tvg-id="TV Dukagjini.al" tvg-name="Dukagjini HD",Dukagjini HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/10
-#EXTINF:-1 tvg-id=“Tëvë1.al” tvg-name=“Tëvë1 HD”,Tëvë1 HD
+#EXTINF:-1 tvg-id="Tëvë1.al" tvg-name="Tëvë1 HD",Tëvë1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/30
-#EXTINF:-1 tvg-id=“MRT2.al” tvg-name=“MRT 2”,MRT 2
+#EXTINF:-1 tvg-id="MRT2.al" tvg-name="MRT 2",MRT 2
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/26
-#EXTINF:-1 tvg-id=“T7.al” tvg-name=“T7 HD”,T7 HD
+#EXTINF:-1 tvg-id="T7.al" tvg-name="T7 HD",T7 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/16
-#EXTINF:-1 tvg-id=“SYRITV.al” tvg-name=“SYRI TV HD”,SYRI TV HD
+#EXTINF:-1 tvg-id="SYRITV.al" tvg-name="SYRI TV HD",SYRI TV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/33
-#EXTINF:-1 tvg-id=“Kanal10.al” tvg-name=“Kanal 10 HD”,Kanal 10 HD
+#EXTINF:-1 tvg-id="Kanal10.al" tvg-name="Kanal 10 HD",Kanal 10 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/17
-#EXTINF:-1 tvg-id=“MFestive1.al” tvg-name=“M Festive 1 HD”,M Festive 1
-HD
+#EXTINF:-1 tvg-id="MFestive1.al" tvg-name="M Festive 1 HD",M Festive 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/99
-#EXTINF:-1 tvg-id=“MFestive2.al” tvg-name=“M Festive 2 HD”,M Festive 2
-HD
+#EXTINF:-1 tvg-id="MFestive2.al" tvg-name="M Festive 2 HD",M Festive 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/100
-#EXTINF:-1 tvg-id=“MFestive3.al” tvg-name=“M Festive 3 HD”,M Festive 3
-HD
+#EXTINF:-1 tvg-id="MFestive3.al" tvg-name="M Festive 3 HD",M Festive 3 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/101
-#EXTINF:-1 tvg-id=“TVDielli.al” tvg-name=“TV Dielli HD”,TV Dielli HD
+#EXTINF:-1 tvg-id="TVDielli.al" tvg-name="TV Dielli HD",TV Dielli HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/21
-#EXTINF:-1 tvg-id=“ATV.al” tvg-name=“ATV HD”,ATV HD
+#EXTINF:-1 tvg-id="ATV.al" tvg-name="ATV HD",ATV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/29
-#EXTINF:-1 tvg-id=“ACTVUSA.al” tvg-name=“ACTV USA HD”,ACTV USA HD
+#EXTINF:-1 tvg-id="ACTVUSA.al" tvg-name="ACTV USA HD",ACTV USA HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/31
-#EXTINF:-1 tvg-id=“ALBUK.al” tvg-name=“ALBUK HD”,ALBUK HD
+#EXTINF:-1 tvg-id="ALBUK.al" tvg-name="ALBUK HD",ALBUK HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/32
-#EXTINF:-1 tvg-id=“TVKlan.al” tvg-name=“TV Klan HD”,TV Klan HD
+#EXTINF:-1 tvg-id="TVKlan.al" tvg-name="TV Klan HD",TV Klan HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/11
-#EXTINF:-1 tvg-id=“KlanPlus.al” tvg-name=“Klan Plus HD”,Klan Plus HD
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD",Klan Plus HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/12
-#EXTINF:-1 tvg-id=“KlanNews.al” tvg-name=“Klan News HD”,Klan News HD
+#EXTINF:-1 tvg-id="KlanNews.al" tvg-name="Klan News HD",Klan News HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/13
-#EXTINF:-1 tvg-id=“TopChannel.al” tvg-name=“Top Channel HD”,Top Channel
-HD
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel HD",Top Channel HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/14
-#EXTINF:-1 tvg-id=“VizionPlus.al” tvg-name=“Vizion Plus HD”,Vizion Plus
-HD
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD",Vizion Plus HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/18
-#EXTINF:-1 tvg-id=“AlsatM.al” tvg-name=“AlsatM HD”,AlsatM HD
+#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="AlsatM HD",AlsatM HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/1
-#EXTINF:-1 tvg-id=“RTSH1.al” tvg-name=“RTSH 1 HD”,RTSH 1 HD
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1 HD",RTSH 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/23
-#EXTINF:-1 tvg-id=“RTSH2.al” tvg-name=“RTSH 2 HD”,RTSH 2 HD
+#EXTINF:-1 tvg-id="RTSH2.al" tvg-name="RTSH 2 HD",RTSH 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/24
-#EXTINF:-1 tvg-id=“RTSHShqip.al” tvg-name=“RTSH Shqip”,RTSH Shqip
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="RTSH Shqip",RTSH Shqip
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/93
-#EXTINF:-1,RTSH 24 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+#EXTINF:-1,RTSH 24
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 #EXTINF:-1,RTSH Sport
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8 #EXTINF:-1
-tvg-id=“BigBrotherVIP1Albania.al” tvg-name=“Big Brother VIP 1 HD
-Albania”,Big Brother VIP 1 HD Albania
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 tvg-id="BigBrotherVIP1Albania.al" tvg-name="Big Brother VIP 1 HD Albania",Big Brother VIP 1 HD Albania
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/53
-#EXTINF:-1 tvg-id=“BigBrotherVIP2Albania.al” tvg-name=“Big Brother VIP 2
-HD Albania”,Big Brother VIP 2 HD Albania
+#EXTINF:-1 tvg-id="BigBrotherVIP2Albania.al" tvg-name="Big Brother VIP 2 HD Albania",Big Brother VIP 2 HD Albania
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/54
-#EXTINF:-1 tvg-id=“ShqiponjaTV.al” tvg-name=“Shqiponja TV HD”,Shqiponja
-TV HD
+#EXTINF:-1 tvg-id="ShqiponjaTV.al" tvg-name="Shqiponja TV HD",Shqiponja TV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/55
-#EXTINF:-1 tvg-id=“FilmAksion.al” tvg-name=“Film Aksion HD”,Film Aksion
-HD
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion HD",Film Aksion HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/56
-#EXTINF:-1 tvg-id=“FilmHits.al” tvg-name=“Film Hits HD”,Film Hits HD
+#EXTINF:-1 tvg-id="FilmHits.al" tvg-name="Film Hits HD",Film Hits HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/57
-#EXTINF:-1 tvg-id=“FilmMax.al” tvg-name=“Film Max HD”,Film Max HD
+#EXTINF:-1 tvg-id="FilmMax.al" tvg-name="Film Max HD",Film Max HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/58
-#EXTINF:-1 tvg-id=“FilmGold.al” tvg-name=“Film Gold HD”,Film Gold HD
+#EXTINF:-1 tvg-id="FilmGold.al" tvg-name="Film Gold HD",Film Gold HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/59
-#EXTINF:-1 tvg-id=“FilmKomedi.al” tvg-name=“Film Komedi HD”,Film Komedi
-HD
+#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi HD",Film Komedi HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/60
-#EXTINF:-1 tvg-id=“FilmDramë.al” tvg-name=“Film Dramë”,Film Dramë
+#EXTINF:-1 tvg-id="FilmDramë.al" tvg-name="Film Dramë",Film Dramë
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/61
-#EXTINF:-1 tvg-id=“FilmAutor.al” tvg-name=“Film Autor HD”,Film Autor HD
+#EXTINF:-1 tvg-id="FilmAutor.al" tvg-name="Film Autor HD",Film Autor HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/62
-#EXTINF:-1 tvg-id=“FilmThriller.al” tvg-name=“Film Thriller”,Film
-Thriller
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller",Film Thriller
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/63
-#EXTINF:-1 tvg-id=“FilmEurofilm.al” tvg-name=“Film Eurofilm”,Film
-Eurofilm
+#EXTINF:-1 tvg-id="FilmEurofilm.al" tvg-name="Film Eurofilm",Film Eurofilm
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/64
-#EXTINF:-1 tvg-id=“20.al” tvg-name=”20 HD”,20 HD
+#EXTINF:-1 tvg-id="20*.al" tvg-name="20 HD*",20 HD*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/65
-#EXTINF:-1 tvg-id=“TringAction.al” tvg-name=“Tring Action HD”,Tring
-Action HD
+#EXTINF:-1 tvg-id="TringAction.al" tvg-name="Tring Action HD",Tring Action HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/66
-#EXTINF:-1 tvg-id=“TringComedy.al” tvg-name=“Tring Comedy HD”,Tring
-Comedy HD
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Tring Comedy HD",Tring Comedy HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/67
-#EXTINF:-1 tvg-id=“TringLife.al” tvg-name=“Tring Life HD”,Tring Life HD
+#EXTINF:-1 tvg-id="TringLife.al" tvg-name="Tring Life HD",Tring Life HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/68
-#EXTINF:-1 tvg-id=“TringSuper.al” tvg-name=“Tring Super HD”,Tring Super
-HD
+#EXTINF:-1 tvg-id="TringSuper.al" tvg-name="Tring Super HD",Tring Super HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/69
-#EXTINF:-1 tvg-id=“TringFantasy.al” tvg-name=“Tring Fantasy HD”,Tring
-Fantasy HD
+#EXTINF:-1 tvg-id="TringFantasy.al" tvg-name="Tring Fantasy HD",Tring Fantasy HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/70
-#EXTINF:-1 tvg-id=“TringFesta.al” tvg-name=“Tring Festa HD”,Tring Festa
-HD
+#EXTINF:-1 tvg-id="TringFesta.al" tvg-name="Tring Festa HD",Tring Festa HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/71
-#EXTINF:-1 tvg-id=“ShenjaTV.al” tvg-name=“Shenja TV”,Shenja TV
+#EXTINF:-1 tvg-id="ShenjaTV.al" tvg-name="Shenja TV",Shenja TV
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/2
-#EXTINF:-1 tvg-id=“EraTV.al” tvg-name=“Era TV HD”,Era TV HD
+#EXTINF:-1 tvg-id="EraTV.al" tvg-name="Era TV HD",Era TV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/19
-#EXTINF:-1 tvg-id=“Zjarr.al” tvg-name=“Zjarr HD”,Zjarr HD
+#EXTINF:-1 tvg-id="Zjarr.al" tvg-name="Zjarr HD",Zjarr HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/35
-#EXTINF:-1 tvg-id=“TVMitrovica.al” tvg-name=“TV Mitrovica”,TV Mitrovica
+#EXTINF:-1 tvg-id="TVMitrovica.al" tvg-name="TV Mitrovica",TV Mitrovica
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/37
-#EXTINF:-1 tvg-id=“Tropoja.al” tvg-name=“Tropoja HD”,Tropoja HD
+#EXTINF:-1 tvg-id="Tropoja.al" tvg-name="Tropoja HD",Tropoja HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/39
-#EXTINF:-1 tvg-id=“A2CNN.al” tvg-name=“A2 CNN HD”,A2 CNN HD
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN HD",A2 CNN HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/20
-#EXTINF:-1 tvg-id=“TopChannelNews.al” tvg-name=“Top Channel News HD”,Top
-Channel News HD
+#EXTINF:-1 tvg-id="TopChannelNews.al" tvg-name="Top Channel News HD",Top Channel News HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/41
-#EXTINF:-1 tvg-id=“News24.al” tvg-name=“News 24 HD”,News 24 HD
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 HD",News 24 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/42
-#EXTINF:-1 tvg-id=“EuronewsAlbania.al” tvg-name=“Euronews Albania
-HD”,Euronews Albania HD
+#EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-name="Euronews Albania HD",Euronews Albania HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/43
-#EXTINF:-1 tvg-id=“ReportTV.al” tvg-name=“Report TV HD”,Report TV HD
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV HD",Report TV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/44
-#EXTINF:-1 tvg-id=“abcNews.al” tvg-name=“abc News HD”,abc News HD
+#EXTINF:-1 tvg-id="abcNews.al" tvg-name="abc News HD",abc News HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/45
-#EXTINF:-1 tvg-id=“OraNews.al” tvg-name=“Ora News HD”,Ora News HD
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News HD",Ora News HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/46
-#EXTINF:-1 tvg-id=“KlanNews.al” tvg-name=“Klan News HD”,Klan News HD
+#EXTINF:-1 tvg-id="KlanNews.al" tvg-name="Klan News HD",Klan News HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/47
-#EXTINF:-1 tvg-id=“AlJazeera.al” tvg-name=“Al Jazeera HD”,Al Jazeera HD
+#EXTINF:-1 tvg-id="AlJazeera.al" tvg-name="Al Jazeera HD",Al Jazeera HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/48
-#EXTINF:-1 tvg-id=“FoxNews.al” tvg-name=“Fox News”,Fox News
+#EXTINF:-1 tvg-id="FoxNews.al" tvg-name="Fox News",Fox News
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/50
-#EXTINF:-1 tvg-id=“Arta.al” tvg-name=“Arta HD”,Arta HD
+#EXTINF:-1 tvg-id="Arta.al" tvg-name="Arta HD",Arta HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/51
-#EXTINF:-1 tvg-id=“AlJazeeraEnglish.al” tvg-name=“Al Jazeera HD
-English”,Al Jazeera HD English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.al" tvg-name="Al Jazeera HD English",Al Jazeera HD English
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/52
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/72
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/73
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/75
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/76
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/77
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/78
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/79
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/80
-#EXTINF:-1 tvg-id=“Netflix.al” tvg-name=“Netflix HD”,Netflix HD
+#EXTINF:-1 tvg-id="Netflix.al" tvg-name="Netflix HD",Netflix HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/81
-#EXTINF:-1 tvg-id=“MHorror.al” tvg-name=“M Horror HD”,M Horror HD
+#EXTINF:-1 tvg-id="MHorror.al" tvg-name="M Horror HD",M Horror HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/82
-#EXTINF:-1 tvg-id=“MTregimeShqiptare.al” tvg-name=“M Tregime Shqiptare
-HD”,M Tregime Shqiptare HD
+#EXTINF:-1 tvg-id="MTregimeShqiptare.al" tvg-name="M Tregime Shqiptare HD",M Tregime Shqiptare HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/92
-#EXTINF:-1 tvg-id=“T.al” tvg-name=“T HD”,T HD
+#EXTINF:-1 tvg-id="T.al" tvg-name="T HD",T HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/94
-#EXTINF:-1 tvg-id=“TringShqip.al” tvg-name=“Tring Shqip HD”,Tring Shqip
-HD
+#EXTINF:-1 tvg-id="TringShqip.al" tvg-name="Tring Shqip HD",Tring Shqip HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/95
-#EXTINF:-1 tvg-id=“SHQIP.al” tvg-name=“SHQIP”,SHQIP
+#EXTINF:-1 tvg-id="SHQIP.al" tvg-name="SHQIP",SHQIP
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/97
-#EXTINF:-1 tvg-id=“KinemaShqip+.al” tvg-name=“Kinema Shqip+ HD”,Kinema
-Shqip+ HD
+#EXTINF:-1 tvg-id="KinemaShqip+.al" tvg-name="Kinema Shqip+ HD",Kinema Shqip+ HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/98
-#EXTINF:-1 tvg-id=“KanalDDrama.al” tvg-name=“Kanal D Drama”,Kanal D
-Drama
+#EXTINF:-1 tvg-id="KanalDDrama.al" tvg-name="Kanal D Drama",Kanal D Drama
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/104
-#EXTINF:-1 tvg-id=“TringStories.al” tvg-name=“Tring Stories HD”,Tring
-Stories HD
+#EXTINF:-1 tvg-id="TringStories.al" tvg-name="Tring Stories HD",Tring Stories HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/105
-#EXTINF:-1 tvg-id=“Tring3+.al” tvg-name=“Tring 3+ HD”,Tring 3+ HD
+#EXTINF:-1 tvg-id="Tring3+.al" tvg-name="Tring 3+ HD",Tring 3+ HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/106
-#EXTINF:-1 tvg-id=“TringNovelas.al” tvg-name=“Tring Novelas HD”,Tring
-Novelas HD
+#EXTINF:-1 tvg-id="TringNovelas.al" tvg-name="Tring Novelas HD",Tring Novelas HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/107
-#EXTINF:-1 tvg-id=“FilmStinët.al” tvg-name=“Film Stinët”,Film Stinët
+#EXTINF:-1 tvg-id="FilmStinët.al" tvg-name="Film Stinët",Film Stinët
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/108
-#EXTINF:-1 tvg-id=“Dizi.al” tvg-name=“Dizi HD”,Dizi HD
+#EXTINF:-1 tvg-id="Dizi.al" tvg-name="Dizi HD",Dizi HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/109
-#EXTINF:-1 tvg-id=“Novela.al” tvg-name=“Novela”,Novela
+#EXTINF:-1 tvg-id="Novela.al" tvg-name="Novela",Novela
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/112
-#EXTINF:-1 tvg-id=“MyMusic.al” tvg-name=“My Music”,My Music
+#EXTINF:-1 tvg-id="MyMusic.al" tvg-name="My Music",My Music
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/113
-#EXTINF:-1 tvg-id=“TOPESTRADA.al” tvg-name=“TOPESTRADA HD”,TOPESTRADA HD
+#EXTINF:-1 tvg-id="TOPESTRADA.al" tvg-name="TOPESTRADA HD",TOPESTRADA HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/114
-#EXTINF:-1 tvg-id=“Folk+.al” tvg-name=“Folk+ HD”,Folk+ HD
+#EXTINF:-1 tvg-id="Folk+.al" tvg-name="Folk+ HD",Folk+ HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/116
-#EXTINF:-1 tvg-id=“bbfMusicTV.al” tvg-name=“bbf Music TV”,bbf Music TV
+#EXTINF:-1 tvg-id="bbfMusicTV.al" tvg-name="bbf Music TV",bbf Music TV
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/117
-#EXTINF:-1 tvg-id=“TOPChannel.al” tvg-name=“TOP Channel HD”,TOP Channel
-HD
+#EXTINF:-1 tvg-id="TOPChannel.al" tvg-name="TOP Channel HD",TOP Channel HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/122
-#EXTINF:-1 tvg-id=“MHumor.al” tvg-name=“M Humor HD”,M Humor HD
+#EXTINF:-1 tvg-id="MHumor.al" tvg-name="M Humor HD",M Humor HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/123
-#EXTINF:-1 tvg-id=“MKafenejajon.al” tvg-name=“M Kafenejajon HD”,M
-Kafenejajon HD
+#EXTINF:-1 tvg-id="MKafenejajon.al" tvg-name="M Kafenejajon HD",M Kafenejajon HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/124
-#EXTINF:-1 tvg-id=“Humor.al” tvg-name=“Humor HD”,Humor HD
+#EXTINF:-1 tvg-id="Humor.al" tvg-name="Humor HD",Humor HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/125
-#EXTINF:-1 tvg-id=“DARKStupcatSkece.al” tvg-name=“DARK HD Stupcat
-Skece”,DARK HD Stupcat Skece
+#EXTINF:-1 tvg-id="DARKStupcatSkece.al" tvg-name="DARK HD Stupcat Skece",DARK HD Stupcat Skece
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/126
-#EXTINF:-1 tvg-id=“MIslam.al” tvg-name=“M Islam HD”,M Islam HD
+#EXTINF:-1 tvg-id="MIslam.al" tvg-name="M Islam HD",M Islam HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/130
-#EXTINF:-1 tvg-id=“MFetare.al” tvg-name=“M Fetare HD”,M Fetare HD
+#EXTINF:-1 tvg-id="MFetare.al" tvg-name="M Fetare HD",M Fetare HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/131
-#EXTINF:-1 tvg-id=“OpojaTVChannel.al” tvg-name=“Opoja TV Channel
-HD”,Opoja TV Channel HD
+#EXTINF:-1 tvg-id="OpojaTVChannel.al" tvg-name="Opoja TV Channel HD",Opoja TV Channel HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/132
-#EXTINF:-1 tvg-id=“PendimiTV.al” tvg-name=“Pendimi TV HD”,Pendimi TV HD
+#EXTINF:-1 tvg-id="PendimiTV.al" tvg-name="Pendimi TV HD",Pendimi TV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/133
-#EXTINF:-1 tvg-id=“PeaceTV.al” tvg-name=“Peace TV HD”,Peace TV HD
+#EXTINF:-1 tvg-id="PeaceTV.al" tvg-name="Peace TV HD",Peace TV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/134
-#EXTINF:-1 tvg-id=“KanaliIm–Kanal135.al” tvg-name=”Kanali Im – Kanal
-135”,Kanali Im – Kanal 135
+#EXTINF:-1 tvg-id="KanaliIm–Kanal135*.al" tvg-name="Kanali Im – Kanal 135*",Kanali Im – Kanal 135*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/135
-#EXTINF:-1 tvg-id=“IslamTV.al” tvg-name=“Islam TV HD”,Islam TV HD
+#EXTINF:-1 tvg-id="IslamTV.al" tvg-name="Islam TV HD",Islam TV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/136
-#EXTINF:-1 tvg-id=“IslamTV2.al” tvg-name=“Islam TV 2 HD”,Islam TV 2 HD
+#EXTINF:-1 tvg-id="IslamTV2.al" tvg-name="Islam TV 2 HD",Islam TV 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/137
-#EXTINF:-1 tvg-id=“ExpShkencë.al” tvg-name=“Exp Shkencë”,Exp Shkencë
+#EXTINF:-1 tvg-id="ExpShkencë.al" tvg-name="Exp Shkencë",Exp Shkencë
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/138
-#EXTINF:-1 tvg-id=“ExpHistori.al” tvg-name=“Exp Histori”,Exp Histori
+#EXTINF:-1 tvg-id="ExpHistori.al" tvg-name="Exp Histori",Exp Histori
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/139
-#EXTINF:-1 tvg-id=“ExpNatyra.al” tvg-name=“Exp Natyra”,Exp Natyra
+#EXTINF:-1 tvg-id="ExpNatyra.al" tvg-name="Exp Natyra",Exp Natyra
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/140
-#EXTINF:-1 tvg-id=“TringPlanet.al” tvg-name=“Tring Planet HD”,Tring
-Planet HD
+#EXTINF:-1 tvg-id="TringPlanet.al" tvg-name="Tring Planet HD",Tring Planet HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/141
-#EXTINF:-1 tvg-id=“TringWorld.al” tvg-name=“Tring World HD”,Tring World
-HD
+#EXTINF:-1 tvg-id="TringWorld.al" tvg-name="Tring World HD",Tring World HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/142
-#EXTINF:-1 tvg-id=“TringHistory.al” tvg-name=“Tring History HD”,Tring
-History HD
+#EXTINF:-1 tvg-id="TringHistory.al" tvg-name="Tring History HD",Tring History HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/143
-#EXTINF:-1 tvg-id=“Planet.al” tvg-name=“Planet”,Planet
+#EXTINF:-1 tvg-id="Planet.al" tvg-name="Planet",Planet
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/144
-#EXTINF:-1 tvg-id=“Nature.al” tvg-name=“Nature HD”,Nature HD
+#EXTINF:-1 tvg-id="Nature.al" tvg-name="Nature HD",Nature HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/145
-#EXTINF:-1 tvg-id=“Explorer.al” tvg-name=“Explorer HD”,Explorer HD
+#EXTINF:-1 tvg-id="Explorer.al" tvg-name="Explorer HD",Explorer HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/146
-#EXTINF:-1 tvg-id=“Living.al” tvg-name=“Living HD”,Living HD
+#EXTINF:-1 tvg-id="Living.al" tvg-name="Living HD",Living HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/147
-#EXTINF:-1 tvg-id=“abcNews.al” tvg-name=“abc News HD”,abc News HD
+#EXTINF:-1 tvg-id="abcNews.al" tvg-name="abc News HD",abc News HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/148
-#EXTINF:-1 tvg-id=“TipTV.al” tvg-name=“Tip TV”,Tip TV
+#EXTINF:-1 tvg-id="TipTV.al" tvg-name="Tip TV",Tip TV
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/149
-#EXTINF:-1 tvg-id=“TringTring.al” tvg-name=“Tring Tring”,Tring Tring
+#EXTINF:-1 tvg-id="TringTring.al" tvg-name="Tring Tring",Tring Tring
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/150
-#EXTINF:-1 tvg-id=“TringKids.al” tvg-name=“Tring Kids HD”,Tring Kids HD
+#EXTINF:-1 tvg-id="TringKids.al" tvg-name="Tring Kids HD",Tring Kids HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/151
-#EXTINF:-1 tvg-id=“Cufo.al” tvg-name=“Cufo”,Cufo
+#EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo",Cufo
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/152
-#EXTINF:-1 tvg-id=“BangBang.al” tvg-name=“Bang Bang”,Bang Bang
+#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang",Bang Bang
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/153
-#EXTINF:-1 tvg-id=“Junior.al” tvg-name=“Junior”,Junior
+#EXTINF:-1 tvg-id="Junior.al" tvg-name="Junior",Junior
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/155
-#EXTINF:-1 tvg-id=“Sofia.al” tvg-name=“Sofia HD”,Sofia HD
+#EXTINF:-1 tvg-id="Sofia.al" tvg-name="Sofia HD",Sofia HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/158
-#EXTINF:-1 tvg-id=“KanaliIm–Kanal159.al” tvg-name=”Kanali Im – Kanal
-159”,Kanali Im – Kanal 159
+#EXTINF:-1 tvg-id="KanaliIm–Kanal159*.al" tvg-name="Kanali Im – Kanal 159*",Kanali Im – Kanal 159*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/159
-#EXTINF:-1 tvg-id=“SuperSport1News.al” tvg-name=“Super Sport 1 News
-HD”,Super Sport 1 News HD
+#EXTINF:-1 tvg-id="SuperSport1News.al" tvg-name="Super Sport  1 News HD",Super Sport  1 News HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/160
-#EXTINF:-1 tvg-id=“SuperSport2.al” tvg-name=“Super Sport 2 HD”,Super
-Sport 2 HD
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="Super Sport 2 HD",Super Sport 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/161
-#EXTINF:-1 tvg-id=“SuperSport3.al” tvg-name=“Super Sport 3 HD”,Super
-Sport 3 HD
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="Super Sport 3 HD",Super Sport 3 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/162
-#EXTINF:-1 tvg-id=“SuperSport4.al” tvg-name=“Super Sport 4 HD”,Super
-Sport 4 HD
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="Super Sport 4 HD",Super Sport 4 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/163
-#EXTINF:-1 tvg-id=“SuperSport5.al” tvg-name=”Super Sport 5 HD”,Super
-Sport 5 HD
+#EXTINF:-1 tvg-id="SuperSport5*.al" tvg-name="Super Sport 5 HD*",Super Sport 5 HD*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/164
-#EXTINF:-1 tvg-id=“SuperSport6.al” tvg-name=”Super Sport 6 HD”,Super
-Sport 6 HD
+#EXTINF:-1 tvg-id="SuperSport6*.al" tvg-name="Super Sport 6 HD*",Super Sport 6 HD*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/165
-#EXTINF:-1 tvg-id=“SuperSport7.al” tvg-name=”Super Sport 7 HD”,Super
-Sport 7 HD
+#EXTINF:-1 tvg-id="SuperSport7*.al" tvg-name="Super Sport 7 HD*",Super Sport 7 HD*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/166
-#EXTINF:-1 tvg-id=“TringSport1.al” tvg-name=“Tring Sport 1 HD”,Tring
-Sport 1 HD
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 HD",Tring Sport 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/167
-#EXTINF:-1 tvg-id=“TringSport2.al” tvg-name=“Tring Sport 2 HD”,Tring
-Sport 2 HD
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 HD",Tring Sport 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/168
-#EXTINF:-1 tvg-id=“TringSport3.al” tvg-name=”Tring Sport 3 HD”,Tring
-Sport 3 HD
+#EXTINF:-1 tvg-id="TringSport3*.al" tvg-name="Tring Sport 3 HD*",Tring Sport 3 HD*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/169
-#EXTINF:-1 tvg-id=“TringSport4.al” tvg-name=”Tring Sport 4 HD”,Tring
-Sport 4 HD
+#EXTINF:-1 tvg-id="TringSport4*.al" tvg-name="Tring Sport 4 HD*",Tring Sport 4 HD*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/170
-#EXTINF:-1 tvg-id=“Sport 1.al” tvg-name=“Kujtesa Sport 1 HD”,Kujtesa
-Sport 1 HD
+#EXTINF:-1 tvg-id="Sport 1.al" tvg-name="Kujtesa Sport 1 HD",Kujtesa Sport 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/171
-#EXTINF:-1 tvg-id=“Sport 2.al” tvg-name=“Kujtesa Sport 2 HD”,Kujtesa
-Sport 2 HD
+#EXTINF:-1 tvg-id="Sport 2.al" tvg-name="Kujtesa Sport 2 HD",Kujtesa Sport 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/172
-#EXTINF:-1 tvg-id=“Sport 3.al” tvg-name=“Kujtesa Sport 3 HD”,Kujtesa
-Sport 3 HD
+#EXTINF:-1 tvg-id="Sport 3.al" tvg-name="Kujtesa Sport 3 HD",Kujtesa Sport 3 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/173
-#EXTINF:-1 tvg-id=“Sport 4.al” tvg-name=“Kujtesa Sport 4 HD”,Kujtesa
-Sport 4 HD
+#EXTINF:-1 tvg-id="Sport 4.al" tvg-name="Kujtesa Sport 4 HD",Kujtesa Sport 4 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/174
-#EXTINF:-1 tvg-id=“KanaliIm–Kanal175.al” tvg-name=”Kanali Im – Kanal
-175”,Kanali Im – Kanal 175
+#EXTINF:-1 tvg-id="KanaliIm–Kanal175*.al" tvg-name="Kanali Im – Kanal 175*",Kanali Im – Kanal 175*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/175
-#EXTINF:-1 tvg-id=“Sport 5.al” tvg-name=“Kujtesa Sport 5 HD”,Kujtesa
-Sport 5 HD
+#EXTINF:-1 tvg-id="Sport 5.al" tvg-name="Kujtesa Sport 5 HD",Kujtesa Sport 5 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/176
-#EXTINF:-1 tvg-id=“Sport 4.al” tvg-name=“Kujtesa Sport 4 HD”,Kujtesa
-Sport 4 HD
+#EXTINF:-1 tvg-id="Sport 4.al" tvg-name="Kujtesa Sport 4 HD",Kujtesa Sport 4 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/177
-#EXTINF:-1 tvg-id=“SK 1.hr” tvg-name=“Sport Klub 1 HD”,Sport Klub 1 HD
+#EXTINF:-1 tvg-id="SK 1.hr" tvg-name="Sport Klub 1 HD",Sport Klub 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/178
-#EXTINF:-1 tvg-id=“SK 2.hr” tvg-name=“Sport Klub 2 HD”,Sport Klub 2 HD
+#EXTINF:-1 tvg-id="SK 2.hr" tvg-name="Sport Klub 2 HD",Sport Klub 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/179
-#EXTINF:-1 tvg-id=“SK 3.hr” tvg-name=“Sport Klub 3 HD”,Sport Klub 3 HD
+#EXTINF:-1 tvg-id="SK 3.hr" tvg-name="Sport Klub 3 HD",Sport Klub 3 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/180
-#EXTINF:-1 tvg-id=“SK 4.hr” tvg-name=“Sport Klub 4 HD”,Sport Klub 4 HD
+#EXTINF:-1 tvg-id="SK 4.hr" tvg-name="Sport Klub 4 HD",Sport Klub 4 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/181
-#EXTINF:-1 tvg-id=“Arena Sport 1.hr” tvg-name=“Arena 1 Premium HD”,Arena
-1 Premium HD
+#EXTINF:-1 tvg-id="Arena Sport 1.hr" tvg-name="Arena 1 Premium HD",Arena 1 Premium HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/182
-#EXTINF:-1 tvg-id=“Arena Sport 2.hr” tvg-name=“Arena 2 Premium HD”,Arena
-2 Premium HD
+#EXTINF:-1 tvg-id="Arena Sport 2.hr" tvg-name="Arena 2 Premium HD",Arena 2 Premium HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/183
-#EXTINF:-1 tvg-id=“Arena Sport 3.hr” tvg-name=“Arena 3 Premium HD”,Arena
-3 Premium HD
+#EXTINF:-1 tvg-id="Arena Sport 3.hr" tvg-name="Arena 3 Premium HD",Arena 3 Premium HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/184
-#EXTINF:-1 tvg-id=“RTSHSport.al” tvg-name=“RTSH Sport HD”,RTSH Sport HD
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Sport HD",RTSH Sport HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/185
-#EXTINF:-1 tvg-id=“beinSports1.al” tvg-name=“bein Sports 1 HD”,bein
-Sports 1 HD
+#EXTINF:-1 tvg-id="beinSports1.al" tvg-name="bein Sports 1 HD",bein Sports 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/192
-#EXTINF:-1 tvg-id=“beinSports2.al” tvg-name=“bein Sports 2 HD”,bein
-Sports 2 HD
+#EXTINF:-1 tvg-id="beinSports2.al" tvg-name="bein Sports 2 HD",bein Sports 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/193
-#EXTINF:-1 tvg-id=“beinSports3.al” tvg-name=“bein Sports 3 HD”,bein
-Sports 3 HD
+#EXTINF:-1 tvg-id="beinSports3.al" tvg-name="bein Sports 3 HD",bein Sports 3 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/194
-#EXTINF:-1 tvg-id=“beinSports4.al” tvg-name=“bein Sports 4 HD”,bein
-Sports 4 HD
+#EXTINF:-1 tvg-id="beinSports4.al" tvg-name="bein Sports 4 HD",bein Sports 4 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/195
-#EXTINF:-1 tvg-id=“KanaliIm–Kanal196.al” tvg-name=”Kanali Im – Kanal
-196”,Kanali Im – Kanal 196
+#EXTINF:-1 tvg-id="KanaliIm–Kanal196*.al" tvg-name="Kanali Im – Kanal 196*",Kanali Im – Kanal 196*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/196
-#EXTINF:-1 tvg-id=“KanaliIm–Kanal197.al” tvg-name=”Kanali Im – Kanal
-197”,Kanali Im – Kanal 197*
+#EXTINF:-1 tvg-id="KanaliIm–Kanal197*.al" tvg-name="Kanali Im – Kanal 197*",Kanali Im – Kanal 197*
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/197
-#EXTINF:-1 tvg-id=“Arena Sport 1.hr” tvg-name=“Arena Sport 1 HD”,Arena
-Sport 1 HD
+#EXTINF:-1 tvg-id="Arena Sport 1.hr" tvg-name="Arena Sport 1 HD",Arena Sport 1 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/198
-#EXTINF:-1 tvg-id=“Arena Sport 2.hr” tvg-name=“Arena Sport 2 HD”,Arena
-Sport 2 HD
+#EXTINF:-1 tvg-id="Arena Sport 2.hr" tvg-name="Arena Sport 2 HD",Arena Sport 2 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/199
-#EXTINF:-1 tvg-id=“Arena Sport 3.hr” tvg-name=“Arena Sport 3 HD”,Arena
-Sport 3 HD
+#EXTINF:-1 tvg-id="Arena Sport 3.hr" tvg-name="Arena Sport 3 HD",Arena Sport 3 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/200
-#EXTINF:-1 tvg-id=“Arena Sport 4.hr” tvg-name=“Arena Sport 4 HD”,Arena
-Sport 4 HD
+#EXTINF:-1 tvg-id="Arena Sport 4.hr" tvg-name="Arena Sport 4 HD",Arena Sport 4 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/201
-#EXTINF:-1 tvg-id=“Arena Sport 5.hr” tvg-name=“Arena Sport 5 HD”,Arena
-Sport 5 HD
+#EXTINF:-1 tvg-id="Arena Sport 5.hr" tvg-name="Arena Sport 5 HD",Arena Sport 5 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/202
-#EXTINF:-1 tvg-id=“Arena Sport 6.hr” tvg-name=“Arena Sport 6 HD”,Arena
-Sport 6 HD
+#EXTINF:-1 tvg-id="Arena Sport 6.hr" tvg-name="Arena Sport 6 HD",Arena Sport 6 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/203
-#EXTINF:-1 tvg-id=“Arena Sport 7.hr” tvg-name=“Arena Sport 7 HD”,Arena
-Sport 7 HD
+#EXTINF:-1 tvg-id="Arena Sport 7.hr" tvg-name="Arena Sport 7 HD",Arena Sport 7 HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/204
-#EXTINF:-1 tvg-id=“DodonaTV.al” tvg-name=“Dodona TV HD”,Dodona TV HD
+#EXTINF:-1 tvg-id="DodonaTV.al" tvg-name="Dodona TV HD",Dodona TV HD
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/261
-#EXTINF:-1 tvg-id=“KanaliIm–Kanal0.al” tvg-name=“Kanali Im – Kanal
-0”,Kanali Im – Kanal 0
+#EXTINF:-1 tvg-id="KanaliIm–Kanal0.al" tvg-name="Kanali Im – Kanal 0",Kanali Im – Kanal 0
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/0
-#EXTINF:-1 tvg-id=“KanaliIm–Kanal25.al” tvg-name=”Kanali Im – Kanal
-25”,Kanali Im – Kanal 25**
+#EXTINF:-1 tvg-id="KanaliIm–Kanal25**.al" tvg-name="Kanali Im – Kanal 25**",Kanali Im – Kanal 25**
 https://mn.shikoshqip.live:2083/kanaliim/af804eaf92b3f0672caf89731a3ec374a90c8da0e635e5b0b74d05f4eaccdddc/25
 
-===== Added Public Albanian Streams =====
+# ===== Added Public Albanian Streams =====
 
 #EXTINF:-1,RTSH 1 OTT
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 
-#EXTINF:-1,RTSH 2 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+#EXTINF:-1,RTSH 2
+http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+
 
 #EXTINF:-1,RTSH Shqip
 http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
 
-#EXTINF:-1,CNA TV https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1,CNA TV
+https://live1.mediadesk.al/cnatvlive.m3u8
 
-#EXTINF:-1,Ora News https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1,Ora News
+https://live1.mediadesk.al/oranews.m3u8
 
-#EXTINF:-1,AlbKanale Music https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1,AlbKanale Music
+https://albportal.net/albkanalemusic.m3u8
 
-===== RTK 1 Direktstream (Viamotion HLS) =====
-
-#EXTINF:-1 tvg-id=“RTK1.al” tvg-name=“RTK 1”,RTK 1
+# ===== RTK 1 Direktstream (Viamotion HLS) =====
+#EXTINF:-1 tvg-id="RTK1.al" tvg-name="RTK 1",RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 
-#EXTINF:-1 tvg-name=“Das Erste HD” tvg-id=“DasErste.de”
-group-title=“Vollprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png”,Das
-Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=“ZDF HD” tvg-id=“ZDF.de” group-title=“Vollprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png”,ZDF
-HD
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id=“One.de” group-title=“ARD”,ARD ONE
-https://mcdn-one.ard.de/ardone/hls/master.m3u8 #EXTINF:-1
-tvg-id=“ARDalpha.de” group-title=“ARD”,ARD alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8 #EXTINF:-1
-tvg-id=“tagesschau24.de” group-title=“ARD”,ARD tagesschau24
+#EXTINF:-1 tvg-id="One.de" group-title="ARD",ARD ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" group-title="ARD",ARD alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" group-title="ARD",ARD tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id=“ZDF.de” group-title=“ZDF”,ZDF
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id=“ZDFneo.de” group-title=“ZDF”,ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="ZDF",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id=“ZDFinfo.de” group-title=“ZDF”,ZDFinfo
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="ZDF",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 group-title=“ARD/ZDF/ORF”,ORF 1
-https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8 #EXTINF:-1
-group-title=“ORF”,ORF 2
-https://test02.mdn.ors.at/orf/orf2/qxa/manifest.mpd #EXTINF:-1
-group-title=“ORF”,ORF III
-https://test02.mdn.ors.at/orf/orf3/qxa/manifest.mpd #EXTINF:-1
-group-title=“ORF”,ORF Sport+
-https://test02.mdn.ors.at/orf/orfs/qxa/manifest.mpd #EXTINF:-1
-group-title=“ORF”,ORF KIDS
-https://test02.mdn.ors.at/orf/orfk/qxa/manifest.mpd #EXTINF:-1
-tvg-name=“3sat” tvg-id=“3sat.de” group-title=“Vollprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png”,3sat
+#EXTINF:-1 group-title="ARD/ZDF/ORF",ORF 1
+https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
+#EXTINF:-1 group-title="ORF",ORF 2
+https://test02.mdn.ors.at/orf/orf2/qxa/manifest.mpd
+#EXTINF:-1 group-title="ORF",ORF III
+https://test02.mdn.ors.at/orf/orf3/qxa/manifest.mpd
+#EXTINF:-1 group-title="ORF",ORF Sport+
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.mpd
+#EXTINF:-1 group-title="ORF",ORF KIDS
+https://test02.mdn.ors.at/orf/orfk/qxa/manifest.mpd
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name=“ARTE HD” tvg-id=“ARTE.de”
-group-title=“Vollprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png”,ARTE
-HD
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 group-title=“Sport”,DF1
+#EXTINF:-1 group-title="Sport",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
-#EXTINF:-1 tvg-name=“ARD-alpha” tvg-id=“ARD-alpha.de”
-group-title=“Spartenprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png”,ARD-alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8 #EXTINF:-1
-tvg-name=“one HD” tvg-id=“One.de” group-title=“Spartenprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png”,one
-HD https://mcdn-one.ard.de/ardone/hls/master.m3u8 #EXTINF:-1
-tvg-name=“ZDFneo HD” tvg-id=“ZDFneo.de” group-title=“Spartenprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png”,ZDFneo
-HD
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name=“ZDFinfo HD” tvg-id=“ZDFinfo.de”
-group-title=“Spartenprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png”,ZDFinfo
-HD
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name=“Welt der Wunder” tvg-id=“WeltderWunder.de”
-group-title=“Spartenprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png”,Welt
-der Wunder https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-name=“phoenix HD” tvg-id=“phoenix.de”
-group-title=“Nachrichten”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png”,phoenix
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name=“tagesschau24” tvg-id=“tagesschau24.de”
-group-title=“Nachrichten”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png”,tagesschau24
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-name=“WELT” tvg-id=“WELT.de”
-group-title=“Nachrichten;Dokumentationen”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png”,WELT
-https://welt.personalstream.tv/v1/master.m3u8 #EXTINF:-1 tvg-name=“Bild”
-tvg-id=“BILD.de” group-title=“Nachrichten;Dokumentationen”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png”,Bild
-https://bild.personalstream.tv/v1/master.m3u8 #EXTINF:-1
-tvg-name=“AutoBild” tvg-id=“AUTOBILD.de” group-title=“Sport”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png”,AUTO
-BILD TV https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
-#EXTINF:-1 tvg-name=“Red Bull TV” tvg-id=“”
-group-title=“International;Sport”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png”,Red
-Bull TV
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
+https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-name=“ANIXE HD” tvg-id=“Anixe.de”
-group-title=“Spartenprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png”,ANIXE
-HD https://ma.anixa.tv/clips/stream/anixehd/index.m3u8 #EXTINF:-1
-tvg-name=“More than Sports TV” tvg-id=“morethansports.de”
-group-title=“Sport”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png”,More
-than Sports TV
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8 #EXTINF:-1
-tvg-name=“Dokusat” tvg-id=“Dokusat.de” group-title=“Spartenprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png”,Dokusat
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="Anixe.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-name="More than Sports TV" tvg-id="morethansports.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png",More than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 group-title=“AT”,RIC TV
+#EXTINF:-1 group-title="AT",RIC TV
 https://simplitv-live.mdn.ors.at/live/eds/ric_today_hd/hls_nodrm/ric_today_hd-nodrm.m3u8
-#EXTINF:-1 tvg-name=“KiKA” tvg-id=“Kika.de” group-title=“Kinder /
-Jugend”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png”,KiKA
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-name=“Lilo.TV” tvg-id=“lilo.tv”
-group-title=“Spartenprogramm”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png”,Lilo.TV
+#EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
-#EXTINF:-1 tvg-name=“DELUXE MUSIC” tvg-id=“DeLuxeMusic.de”
-group-title=“Musik”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png”,DELUXE
-MUSIC
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name=“DELUXE MUSIC RAP” tvg-id=“DeLuxeMusicRap.de”
-group-title=“Musik”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrap.png”,DELUXE
-MUSIC RAP
+#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-id="DeLuxeMusicRap.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrap.png",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-name=“Deutsches Musik Fernsehen”
-tvg-id=“DeutschesMusikFernsehen.de” group-title=“Musik”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png”,Deutsches
-Musik Fernsehen
-https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8 #EXTINF:-1
-tvg-name=“Bibel TV” tvg-id=“BibelTV.de” group-title=“Religion”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png”,Bibel
-TV
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name=“Bibel TV Impuls” tvg-id=“BibelTVImpuls.de”
-group-title=“Religion”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png”,Bibel
-TV Impuls
+#EXTINF:-1 tvg-name="Bibel TV Impuls" tvg-id="BibelTVImpuls.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Impuls
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name=“Bibel TV Musik” tvg-id=“BibelTVMusik.de”
-group-title=“Religion”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png”,Bibel
-TV Musik
+#EXTINF:-1 tvg-name="Bibel TV Musik" tvg-id="BibelTVMusik.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Musik
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name=“K-TV” tvg-id=“KTV.de” group-title=“Religion”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png”,K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8 #EXTINF:-1
-tvg-name=“EWTN katholisches TV” tvg-id=“EWTN.de” group-title=“Religion”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png”,EWTN
-katholisches TV
+#EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV
 https://1775071782.rsc.cdn77.org/1775071782/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=“ERF 1” tvg-id=“ERFeins.de” group-title=“Religion”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png”,ERF
-1
+#EXTINF:-1 tvg-name="ERF 1" tvg-id="ERFeins.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png",ERF 1
 https://bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/6194387526001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name=“SportBild” tvg-id=“SPORTBILD.de”
-group-title=“Sport”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png”,SPORT
-BILD TV https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
-#EXTINF:-1 tvg-name=“wir24.tv” tvg-id=“wir24.tv” group-title=“Sonstiges”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wirtv24.png”,Wir24TV
+#EXTINF:-1 tvg-name="SportBild" tvg-id="SPORTBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png",SPORT BILD TV
+https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
+#EXTINF:-1 tvg-name="wir24.tv" tvg-id="wir24.tv" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wirtv24.png",Wir24TV
 https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
-#EXTINF:-1 tvg-name=“1-2-3.tv” tvg-id=“123.tv.de”
-group-title=“Teleshopping”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png”,1-2-3.tv
-https://123tv-mx1.flex-cdn.net/index.m3u8 #EXTINF:-1
-tvg-name=“SonnenklarTV HD” tvg-id=“sonnenklar.tv”
-group-title=“Teleshopping”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sonnenklartv.png”,SonnenklarTV
-HD http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8 #EXTINF:-1
-tvg-name=“WDR HD” tvg-id=“WDRFernsehen.de” group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png”,WDR
-HD
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-name="SonnenklarTV HD" tvg-id="sonnenklar.tv" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sonnenklartv.png",SonnenklarTV HD
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-name=“SWR Baden-W眉rttemberg HD” tvg-id=“SWRFernsehen.de”
-group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png”,SWR
-Baden-W眉rttemberg HD
+#EXTINF:-1 tvg-name="SWR Baden-W眉rttemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-W眉rttemberg HD
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-name=“SWR Rheinland-Pfalz HD” tvg-id=“SWRFernsehen-rp.de”
-group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png”,SWR
-Rheinland-Pfalz HD
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWRFernsehen-rp.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz HD
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Niedersachsen HD” tvg-id=“NDRFernsehen.de”
-group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png”,NDR
-Niedersachsen HD https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-name=“BR Fernsehen S眉d HD” tvg-id=“BRFernsehen.de”
-group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png”,BR
-Fernsehen S眉d HD https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-name=“MDR Sachsen HD” tvg-id=“MDRSachsen.de”
-group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png”,MDR
-Sachsen HD
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen S眉d HD" tvg-id="BRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen S眉d HD
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-name=“hr-fernsehen” tvg-id=“HR.de” group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png”,hr-fernsehen
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
-#EXTINF:-1 tvg-name=“rbb Berlin HD” tvg-id=“rbbBerlin.de”
-group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png”,rbb
-Berlin HD
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1 tvg-name=“SR Fernsehen HD” tvg-id=“SRFernsehen.de”
-group-title=“Regional”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png”,SR
-Fernsehen HD
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8 #EXTINF:-1
-tvg-name=“ARD Event 1” tvg-id=“ARDEvent1.de” group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png”,ARD
-Event 1
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
-#EXTINF:-1 tvg-name=“ARD Event 2” tvg-id=“ARDEvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png”,ARD
-Event 2
+#EXTINF:-1 tvg-name="ARD Event 2" tvg-id="ARDEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 2
 https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 1” tvg-id=“ZDFEvent1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 1
+#EXTINF:-1 tvg-name="ZDF Event 1" tvg-id="ZDFEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 1
 http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 2” tvg-id=“ZDFEvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 2
+#EXTINF:-1 tvg-name="ZDF Event 2" tvg-id="ZDFEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 2
 http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 3” tvg-id=“ZDFEvent.de3”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 3
+#EXTINF:-1 tvg-name="ZDF Event 3" tvg-id="ZDFEvent.de3" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 3
 https://zdf-hls-03.akamaized.net/hls/live/2016213/de/high/master.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 4” tvg-id=“ZDFEvent4.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 4
+#EXTINF:-1 tvg-name="ZDF Event 4" tvg-id="ZDFEvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 4
 http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 5” tvg-id=“ZDFEvent5.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 5
+#EXTINF:-1 tvg-name="ZDF Event 5" tvg-id="ZDFEvent5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 5
 https://zdf-hls-05.akamaized.net/hls/live/2016300/de/high/master.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 6” tvg-id=“ZDFEvent6.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 6
+#EXTINF:-1 tvg-name="ZDF Event 6" tvg-id="ZDFEvent6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 6
 http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 7” tvg-id=“ZDFEvent7.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 7
+#EXTINF:-1 tvg-name="ZDF Event 7" tvg-id="ZDFEvent7.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 7
 https://zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 9” tvg-id=“ZDFEvent7.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 9
+#EXTINF:-1 tvg-name="ZDF Event 9" tvg-id="ZDFEvent7.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 9
 https://zdf-hls-09.akamaized.net/hls/live/2016304/de/high/master.m3u8
-#EXTINF:-1 tvg-name=“ZDF Event 10” tvg-id=“ZDFEvent10.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png”,ZDF
-Event 10
+#EXTINF:-1 tvg-name="ZDF Event 10" tvg-id="ZDFEvent10.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 10
 https://zdf-hls-10.akamaized.net/hls/live/2016305/de/high/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 01
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 01
 https://sportschau-event.ard-mcdn.de/sportschau/event01/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 02
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 02
 https://sportschau-event.ard-mcdn.de/sportschau/event02/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 03
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 03
 https://sportschau-event.ard-mcdn.de/sportschau/event03/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 04
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 04
 https://sportschau-event.ard-mcdn.de/sportschau/event04/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 05
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 05
 https://sportschau-event.ard-mcdn.de/sportschau/event05/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 06
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 06
 https://sportschau-event.ard-mcdn.de/sportschau/event06/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 07
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 07
 https://sportschau-event.ard-mcdn.de/sportschau/event07/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 08
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 08
 https://sportschau-event.ard-mcdn.de/sportschau/event08/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 09
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 09
 https://sportschau-event.ard-mcdn.de/sportschau/event09/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 10
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 10
 https://sportschau-event.ard-mcdn.de/sportschau/event10/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 11
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 11
 https://sportschau-event.ard-mcdn.de/sportschau/event11/hls/de/master.m3u8
-#EXTINF:-1 group-title=“Sportschau”,Sportschau Event 12
+#EXTINF:-1 group-title="Sportschau",Sportschau Event 12
 https://sportschau-event.ard-mcdn.de/sportschau/event12/hls/de/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 1
+#EXTINF:-1 radio="false",ZDF Event 1
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 2
+#EXTINF:-1 radio="false",ZDF Event 2
 https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 3
+#EXTINF:-1 radio="false",ZDF Event 3
 https://zdf-hls-03.akamaized.net/hls/live/2016298/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 4
+#EXTINF:-1 radio="false",ZDF Event 4
 https://zdf-hls-04.akamaized.net/hls/live/2016299/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 5
+#EXTINF:-1 radio="false",ZDF Event 5
 https://zdf-hls-05.akamaized.net/hls/live/2016300/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 6
+#EXTINF:-1 radio="false",ZDF Event 6
 https://zdf-hls-06.akamaized.net/hls/live/2016301/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 7
+#EXTINF:-1 radio="false",ZDF Event 7
 https://zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 8
+#EXTINF:-1 radio="false",ZDF Event 8
 https://zdf-hls-08.akamaized.net/hls/live/2016303/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 9
+#EXTINF:-1 radio="false",ZDF Event 9
 https://zdf-hls-09.akamaized.net/hls/live/2016304/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 10
+#EXTINF:-1 radio="false",ZDF Event 10
 https://zdf-hls-10.akamaized.net/hls/live/2016305/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 11
+#EXTINF:-1 radio="false",ZDF Event 11
 https://zdf-hls-11.akamaized.net/hls/live/2016436/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 12
+#EXTINF:-1 radio="false",ZDF Event 12
 https://zdf-hls-12.akamaized.net/hls/live/2016495/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 13
+#EXTINF:-1 radio="false",ZDF Event 13
 https://zdf-hls-13.akamaized.net/hls/live/2016496/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 14
+#EXTINF:-1 radio="false",ZDF Event 14
 https://zdf-hls-14.akamaized.net/hls/live/2016497/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 15
+#EXTINF:-1 radio="false",ZDF Event 15
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 16
+#EXTINF:-1 radio="false",ZDF Event 16
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 17
+#EXTINF:-1 radio="false",ZDF Event 17
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 18
+#EXTINF:-1 radio="false",ZDF Event 18
 https://zdf-hls-18.akamaized.net/hls/live/2016501/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 19
+#EXTINF:-1 radio="false",ZDF Event 19
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event 20
+#EXTINF:-1 radio="false",ZDF Event 20
 https://zdf-hls-20.akamaized.net/hls/live/2016503/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event Test 1
+#EXTINF:-1 radio="false",ZDF Event Test 1
 https://zdf-msl4-test01.akamaized.net/hls/live/2017634/de/high/master.m3u8
-#EXTINF:-1 radio=“false”,ZDF Event Test 2
+#EXTINF:-1 radio="false",ZDF Event Test 2
 https://zdf-msl4-test02.akamaized.net/hls/live/2017635/de/high/master.m3u8
-#EXTINF:-1 tvg-id=“ZDF.de” group-title=“ZDF Sport”,ZDF Sport Extra 1
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF Sport",ZDF Sport Extra 1
 https://zdf-hls-18.akamaized.net/hls/live/2016511/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id=“ZDF.de” group-title=“ZDF Sport”,ZDF Sport Extra 2
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF Sport",ZDF Sport Extra 2
 https://zdf-hls-19.akamaized.net/hls/live/2016512/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id=“ZDF.de” group-title=“ZDF Sport”,ZDF Sport Extra 3
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF Sport",ZDF Sport Extra 3
 https://zdf-hls-20.akamaized.net/hls/live/2016513/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id=“ZDF.de” group-title=“ZDF Sport”,ZDF Sport Extra 4
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF Sport",ZDF Sport Extra 4
 https://zdf-hls-21.akamaized.net/hls/live/2016514/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id=“ZDF.de” group-title=“ZDF Sport”,ZDF Sport Extra 5
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF Sport",ZDF Sport Extra 5
 https://zdf-hls-22.akamaized.net/hls/live/2016515/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name=“ARTE Event 1” tvg-id=“ArteEvent1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png”,ARTE
-Event 1
+#EXTINF:-1 tvg-name="ARTE Event 1" tvg-id="ArteEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 1
 https://arteconcerthls.akamaized.net/hls/live/2025494/channel01/master.m3u8
-#EXTINF:-1 tvg-name=“ARTE Event 2” tvg-id=“ArteEvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png”,ARTE
-Event 2
+#EXTINF:-1 tvg-name="ARTE Event 2" tvg-id="ArteEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 2
 https://arteconcerthls.akamaized.net/hls/live/2025495/channel02/master.m3u8
-#EXTINF:-1 tvg-name=“ARTE Event 3” tvg-id=“ArteEvent3.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png”,ARTE
-Event 3
+#EXTINF:-1 tvg-name="ARTE Event 3" tvg-id="ArteEvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 3
 https://arteconcerthls.akamaized.net/hls/live/2025496/channel03/master.m3u8
-#EXTINF:-1 tvg-name=“ARTE Event 4” tvg-id=“ArteEvent4.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png”,ARTE
-Event 4
+#EXTINF:-1 tvg-name="ARTE Event 4" tvg-id="ArteEvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 4
 https://arteconcerthls.akamaized.net/hls/live/2025497/channel04/master.m3u8
-#EXTINF:-1 tvg-name=“ARTE Event 5” tvg-id=“ArteEvent5.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png”,ARTE
-Event 5
+#EXTINF:-1 tvg-name="ARTE Event 5" tvg-id="ArteEvent5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 5
 https://arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8
-#EXTINF:-1 tvg-name=“ARTE Event 6” tvg-id=“ArteEvent6.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png”,ARTE
-Event 6
+#EXTINF:-1 tvg-name="ARTE Event 6" tvg-id="ArteEvent6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 6
 https://arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8
-#EXTINF:-1 tvg-name=“WDR Event 1” tvg-id=“WDREvent1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png”,WDR
-Event 1
+#EXTINF:-1 tvg-name="WDR Event 1" tvg-id="WDREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 1
 https://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
-#EXTINF:-1 tvg-name=“WDR Event 2” tvg-id=“WDREvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png”,WDR
-Event 2
+#EXTINF:-1 tvg-name="WDR Event 2" tvg-id="WDREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 2
 https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
-#EXTINF:-1 tvg-name=“WDR Event 3” tvg-id=“WDREvent3.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png”,WDR
-Event 3
+#EXTINF:-1 tvg-name="WDR Event 3" tvg-id="WDREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 3
 https://wdrevent.akamaized.net/hls/live/2016698/wdr_msl4_wdrevent3/master.m3u8
-#EXTINF:-1 tvg-name=“WDR Event 7” tvg-id=“WDREvent7.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png”,WDR
-Event 7
+#EXTINF:-1 tvg-name="WDR Event 7" tvg-id="WDREvent7.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 7
 https://wdrevent.akamaized.net/hls/live/2020357/wdr_msl4_wdrevent7/master.m3u8
-#EXTINF:-1 tvg-name=“WDR Event 8” tvg-id=“WDREvent8.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png”,WDR
-Event 8
+#EXTINF:-1 tvg-name="WDR Event 8" tvg-id="WDREvent8.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 8
 https://wdrevent.akamaized.net/hls/live/2020358/wdr_msl4_wdrevent8/master.m3u8
-#EXTINF:-1 tvg-name=“WDR Event 9” tvg-id=“WDREvent9.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png”,WDR
-Event 9
+#EXTINF:-1 tvg-name="WDR Event 9" tvg-id="WDREvent9.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 9
 https://wdrevent.akamaized.net/hls/live/2020359/wdr_msl4_wdrevent9/master.m3u8
-#EXTINF:-1 tvg-name=“WDR Event 10” tvg-id=“WDREvent10.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png”,WDR
-Event 10
+#EXTINF:-1 tvg-name="WDR Event 10" tvg-id="WDREvent10.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 10
 https://wdrevent.akamaized.net/hls/live/2020360/wdr_msl4_wdrevent10/master.m3u8
-#EXTINF:-1 tvg-name=“SWR Event 1” tvg-id=“SWREvent1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png”,SWR
-Event 1
+#EXTINF:-1 tvg-name="SWR Event 1" tvg-id="SWREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 1
 https://swrevent01hls.akamaized.net/hls/live/2016766/event01/master.m3u8
-#EXTINF:-1 tvg-name=“SWR Event 2” tvg-id=“SWREvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png”,SWR
-Event 2
+#EXTINF:-1 tvg-name="SWR Event 2" tvg-id="SWREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 2
 https://swrevent02hls.akamaized.net/hls/live/2016767/event02/master.m3u8
-#EXTINF:-1 tvg-name=“SWR Event 3” tvg-id=“SWREvent3.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png”,SWR
-Event 3
+#EXTINF:-1 tvg-name="SWR Event 3" tvg-id="SWREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 3
 https://swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8
-#EXTINF:-1 tvg-name=“SWR Event 4” tvg-id=“SWREvent4.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png”,SWR
-Event 4
+#EXTINF:-1 tvg-name="SWR Event 4" tvg-id="SWREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 4
 https://swrevent04hls.akamaized.net/hls/live/2016769/event04/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Event 1” tvg-id=“NDREvent1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Event 1 https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Event 2” tvg-id=“NDREvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Event 2 https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Event 3” tvg-id=“NDREvent3.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Event 3 https://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 1” tvg-id=“NDRSpezial1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 1
+#EXTINF:-1 tvg-name="NDR Event 1" tvg-id="NDREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 1
+https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event 2" tvg-id="NDREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 2
+https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
+#EXTINF:-1 tvg-name="NDR Event 3" tvg-id="NDREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 3
+https://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 1" tvg-id="NDRSpezial1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 1
 http://ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 2” tvg-id=“NDRSpezial2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 2
+#EXTINF:-1 tvg-name="NDR Spezial 2" tvg-id="NDRSpezial2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 2
 http://ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 3” tvg-id=“NDRSpezial3.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 3
+#EXTINF:-1 tvg-name="NDR Spezial 3" tvg-id="NDRSpezial3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 3
 http://ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 4” tvg-id=“NDRSpezial4.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 4
+#EXTINF:-1 tvg-name="NDR Spezial 4" tvg-id="NDRSpezial4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 4
 http://ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 5” tvg-id=“NDRSpezial5.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 5
+#EXTINF:-1 tvg-name="NDR Spezial 5" tvg-id="NDRSpezial5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 5
 http://ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 6” tvg-id=“NDRSpezial6.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 6
+#EXTINF:-1 tvg-name="NDR Spezial 6" tvg-id="NDRSpezial6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 6
 http://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 7” tvg-id=“NDRSpezial7.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 7
+#EXTINF:-1 tvg-name="NDR Spezial 7" tvg-id="NDRSpezial7.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 7
 https://ndrspezial7sp-lh.akamaihd.net/i/spezial_7@322396/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 8” tvg-id=“NDRSpezial8.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 8
+#EXTINF:-1 tvg-name="NDR Spezial 8" tvg-id="NDRSpezial8.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 8
 https://ndrspezial8sp-lh.akamaihd.net/i/spezial_8@425044/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 9” tvg-id=“NDRSpezial9.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 9
+#EXTINF:-1 tvg-name="NDR Spezial 9" tvg-id="NDRSpezial9.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 9
 https://ndrspezial9sp-lh.akamaihd.net/i/spezial_9@426506/master.m3u8
-#EXTINF:-1 tvg-name=“NDR Spezial 10” tvg-id=“NDRSpezial10.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png”,NDR
-Spezial 10
+#EXTINF:-1 tvg-name="NDR Spezial 10" tvg-id="NDRSpezial10.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 10
 https://ndrspezial10sp-lh.akamaihd.net/i/spezial_10@9732/master.m3u8
-#EXTINF:-1 tvg-name=“BR Event 1” tvg-id=“BREvent1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png”,BR
-Event 1
+#EXTINF:-1 tvg-name="BR Event 1" tvg-id="BREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 1
 https://brevent.akamaized.net/hls/live/2028218/event_01/master.m3u8
-#EXTINF:-1 tvg-name=“BR Event 2” tvg-id=“BREvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png”,BR
-Event 2
+#EXTINF:-1 tvg-name="BR Event 2" tvg-id="BREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 2
 https://brevent.akamaized.net/hls/live/2028219/event_02/master.m3u8
-#EXTINF:-1 tvg-name=“BR Event 3” tvg-id=“BREvent3.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png”,BR
-Event 3
+#EXTINF:-1 tvg-name="BR Event 3" tvg-id="BREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 3
 https://brevent.akamaized.net/hls/live/2028220/event_03/master.m3u8
-#EXTINF:-1 tvg-name=“BR Event 4” tvg-id=“BREvent4.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png”,BR
-Event 4
+#EXTINF:-1 tvg-name="BR Event 4" tvg-id="BREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 4
 https://brevent.akamaized.net/hls/live/2028221/event_04/master.m3u8
-#EXTINF:-1 tvg-name=“MDR+ 1” tvg-id=“MDRPlus1.de” group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png”,MDR+
-1
+#EXTINF:-1 tvg-name="MDR+ 1" tvg-id="MDRPlus1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 1
 https://mdrevent1wwhls.akamaized.net/hls/live/2025205/mdrevent1ww/master.m3u8
-#EXTINF:-1 tvg-name=“MDR+ 2” tvg-id=“MDRPlus2.de” group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png”,MDR+
-2
+#EXTINF:-1 tvg-name="MDR+ 2" tvg-id="MDRPlus2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 2
 https://mdrevent2wwhls.akamaized.net/hls/live/2025367/mdrevent2ww/master.m3u8
-#EXTINF:-1 tvg-name=“MDR+ 3” tvg-id=“MDRPlus3.de” group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png”,MDR+
-3
+#EXTINF:-1 tvg-name="MDR+ 3" tvg-id="MDRPlus3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 3
 https://mdrevent3wwhls.akamaized.net/hls/live/2025368/mdrevent3ww/master.m3u8
-#EXTINF:-1 tvg-name=“MDR+ 4” tvg-id=“MDRPlus4.de” group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png”,MDR+
-4
+#EXTINF:-1 tvg-name="MDR+ 4" tvg-id="MDRPlus4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 4
 https://mdrevent4wwhls.akamaized.net/hls/live/2025369/mdrevent4ww/master.m3u8
-#EXTINF:-1 tvg-name=“MDR+ 5” tvg-id=“MDRPlus5.de” group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png”,MDR+
-5
+#EXTINF:-1 tvg-name="MDR+ 5" tvg-id="MDRPlus5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 5
 https://mdrevent5wwhls.akamaized.net/hls/live/2025370/mdrevent5ww/master.m3u8
-#EXTINF:-1 tvg-name=“HR Event 1” tvg-id=“HREvent1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png”,HR
-Event 1 http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
-#EXTINF:-1 tvg-name=“HR Event 2” tvg-id=“HREvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png”,HR
-Event 2 http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
-#EXTINF:-1 tvg-name=“rbb Event 1” tvg-id=“RBBEvent1.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png”,rbb
-Event 1
+#EXTINF:-1 tvg-name="HR Event 1" tvg-id="HREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 1
+http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
+#EXTINF:-1 tvg-name="HR Event 2" tvg-id="HREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 2
+http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
+#EXTINF:-1 tvg-name="rbb Event 1" tvg-id="RBBEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png",rbb Event 1
 https://rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8
-#EXTINF:-1 tvg-name=“rbb Event 2” tvg-id=“RBBEvent2.de”
-group-title=“Extra”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png”,rbb
-Event 2
+#EXTINF:-1 tvg-name="rbb Event 2" tvg-id="RBBEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png",rbb Event 2
 https://rbbevent02-hls.akamaized.net/hls/live/685985/rbbevent02/master.m3u8
-#EXTINF:-1 tvg-name=“Parlamentsfernsehen 1” tvg-id=“”
-group-title=“Extra;Information / Bildung”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png”,Parlamentsfernsehen
-1
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/definst/live/video/hk1_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=“Parlamentsfernsehen 2” tvg-id=“”
-group-title=“Extra;Information / Bildung”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png”,Parlamentsfernsehen
-2
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/definst/live/video/hk2_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=“Parlamentsfernsehen 3” tvg-id=“”
-group-title=“Extra;Information / Bildung”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png”,Parlamentsfernsehen
-3
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/definst/live/video/hk3_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=“Parlamentsfernsehen 4” tvg-id=“”
-group-title=“Extra;Information / Bildung”
-tvg-logo=“https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png”,Parlamentsfernsehen
-4
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/definst/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 1
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 2
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 3" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 3
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 4" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 4
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
 l
