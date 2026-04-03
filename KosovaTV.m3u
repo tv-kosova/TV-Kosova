@@ -80,22 +80,10 @@ https://t2.tvmak.com/tv/DASMATV.m3u8
 https://t2.tvmak.com/tv/SHOTATV.m3u8
 #EXTINF:-1,Alb TV Chicago
 https://t2.tvmak.com/tv/ALBTVCHICAGO.m3u8
-#EXTINF:-1,NTV Durres
-https://t2.tvmak.com/tv/NTVDURRES.m3u8
 #EXTINF:-1,TV Korca
 https://t2.tvmak.com/tv/TVKORCA.m3u8
-#EXTINF:-1,Spin TV
-https://t2.tvmak.com/tv/SPINTV.m3u8
-#EXTINF:-1,Alb Swiss
-https://t2.tvmak.com/tv/ALBSWISS.m3u8
 #EXTINF:-1,TV Besa
 https://t2.tvmak.com/tv/TVBESA.m3u8
-#EXTINF:-1,Alpo Media
-https://t2.tvmak.com/tv/ALPOMEDIA.m3u8
-#EXTINF:-1,Flaka TV
-https://t2.tvmak.com/tv/FLAKATV.m3u8
-#EXTINF:-1,TV Mitrovica
-https://t2.tvmak.com/tv/TVMITROVICA.m3u8
 #EXTINF:-1 tvg-id="ZjarrTV.al",Zjarr TV
 https://t2.tvmak.com/tv/ZJARRTV.m3u8
 #EXTINF:-1,Star Plus
@@ -108,39 +96,16 @@ https://t2.tvmak.com/tv/RTVSCAN.m3u8
 https://t2.tvmak.com/tv/TVKOPLIKU.m3u8
 #EXTINF:-1,TV Prizreni
 https://t2.tvmak.com/tv/TVPRIZRENI.m3u8
-#EXTINF:-1,El Kalem
-https://t2.tvmak.com/tv/ELKALEM.m3u8
 #EXTINF:-1,Meka TV
 https://t2.tvmak.com/tv/MEKATV.m3u8
-#EXTINF:-1,Drita TV
-https://t2.tvmak.com/tv/DRITATV.m3u8
 #EXTINF:-1,RTV Islam
 https://t2.tvmak.com/tv/RTVISLAM.m3u8
 #EXTINF:-1,Amol TV
 https://t2.tvmak.com/tv/AMOL.m3u8
-#EXTINF:-1,AlbDreams TV
-https://t2.tvmak.com/tv/ALBDREAMSTV.m3u8
 #EXTINF:-1,RTV Alb SE
 https://t2.tvmak.com/tv/RTVALBSE.m3u8
 #EXTINF:-1,TV Apollon
 https://t2.tvmak.com/tv/TVAPOLLON.m3u8
-#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al",Albkanal Music TV
-https://t2.tvmak.com/tv/ALBKANALMUSICTV.m3u8
-#EXTINF:-1,Club TV
-https://t2.tvmak.com/tv/CLUBTV.m3u8
-#EXTINF:-1,RTV Ilirida
-https://t2.tvmak.com/tv/RTVILIRIDA1.m3u8
-#EXTINF:-1,RTV Ilirida Music
-https://t2.tvmak.com/tv/RTVILIRIDAMUSIC.m3u8
-#EXTINF:-1,RTSH Sport
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-# ===== Added Public Albanian Streams =====
-#EXTINF:-1,RTSH 1 OTT
-http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
-#EXTINF:-1,RTSH 2
-http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
-#EXTINF:-1,RTSH Shqip
-http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
 #EXTINF:-1,CNA TV
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1,Ora News
@@ -151,35 +116,35 @@ https://albportal.net/albkanalemusic.m3u8
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="One.de" group-title="ARD",ARD ONE
+#EXTINF:-1 tvg-id="One.de" group-title="ARD",ARD ONE HD
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de" group-title="ARD",ARD alpha
+#EXTINF:-1 tvg-id="ARDalpha.de" group-title="ARD",ARD alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" group-title="ARD",ARD tagesschau24
+#EXTINF:-1 tvg-id="tagesschau24.de" group-title="ARD",ARD tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF",ZDF
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" group-title="ZDF",ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="ZDF",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="ZDF",ZDFinfo
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="ZDF",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 group-title="ARD/ZDF/ORF",ORF 1
+#EXTINF:-1 group-title="ARD/ZDF/ORF",ORF 1 HD
 https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
-#EXTINF:-1 group-title="ORF",ORF 2
+#EXTINF:-1 group-title="ORF",ORF 2 HD
 https://test02.mdn.ors.at/orf/orf2/qxa/manifest.mpd
-#EXTINF:-1 group-title="ORF",ORF III
+#EXTINF:-1 group-title="ORF",ORF III HD
 https://test02.mdn.ors.at/orf/orf3/qxa/manifest.mpd
-#EXTINF:-1 group-title="ORF",ORF Sport+
+#EXTINF:-1 group-title="ORF",ORF Sport+ HD
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.mpd
-#EXTINF:-1 group-title="ORF",ORF KIDS
+#EXTINF:-1 group-title="ORF",ORF KIDS HD
 https://test02.mdn.ors.at/orf/orfk/qxa/manifest.mpd
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 group-title="Sport",DF1
+#EXTINF:-1 group-title="Sport",DF1 HD
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
@@ -187,81 +152,75 @@ https://mcdn-one.ard.de/ardone/hls/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder HD
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix HD
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT HD
 https://welt.personalstream.tv/v1/master.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="Saarland Fernsehen 1" group-title="Deutschland",Saarland Fernsehen 1
+#EXTINF:-1 tvg-name="Saarland Fernsehen 1" group-title="Deutschland",Saarland Fernsehen 1 HD
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="Saarland Fernsehen 2" group-title="Deutschland",Saarland Fernsehen 2
+#EXTINF:-1 tvg-name="Saarland Fernsehen 2" group-title="Deutschland",Saarland Fernsehen 2 HD
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="RTL" group-title="Deutschland",RTL
+#EXTINF:-1 tvg-name="RTL" group-title="Deutschland",RTL HD
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="RTL Passion" group-title="Deutschland",RTL Passion
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="RTL Zwei" group-title="Deutschland",RTL Zwei
+#EXTINF:-1 tvg-name="RTL Zwei" group-title="Deutschland",RTL Zwei HD
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="ProSieben" group-title="Deutschland",ProSieben
+#EXTINF:-1 tvg-name="ProSieben" group-title="Deutschland",ProSieben HD
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="SAT.1" group-title="Deutschland",SAT.1
+#EXTINF:-1 tvg-name="SAT.1" group-title="Deutschland",SAT.1 HD
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
-#EXTINF:-1,SAT.1 Gold
+#EXTINF:-1,SAT.1 Gold HD
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-EXTINF:-1,Kabel Eins
+EXTINF:-1,Kabel Eins HD
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTM3U
-#EXTINF:-1,VOX (DASH VLC)
+#EXTINF:-1,VOX HD
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTM3U
-#EXTINF:-1,VOX
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
-#EXTINF:-1,Super RTL
+#EXTINF:-1,Super RTL HD
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
-#EXTINF:-1,RTL Nitro
+#EXTINF:-1,RTL Nitro*
 https://viamotionhsi.netplus.ch/live/eds/nitro/browser-HLS8/nitro.m3u8
 #EXTINF:-1,n-tv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
-#EXTINF:-1,VOX Up
+#EXTINF:-1,VOX Up*
 https://viamotionhsi.netplus.ch/live/eds/voxup/browser-HLS8/voxup.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="SIXX" group-title="Deutschland",SIXX
+#EXTINF:-1 tvg-name="SIXX" group-title="Deutschland",SIXX HD
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1,Das Erste
+#EXTINF:-1,Das Erste HD
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
-#EXTINF:-1,ZDF
+#EXTINF:-1,ZDF HD
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-#EXTINF:-1,ZDF Neo
+#EXTINF:-1,ZDF Neo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
-#EXTINF:-1,ZDF Info
+#EXTINF:-1,ZDF Info HD
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
-#EXTINF:-1,3sat
+#EXTINF:-1,3sat HD
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1,KIKA
+#EXTINF:-1,KIKA HD
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
-#EXTINF:-1,WDR
+#EXTINF:-1,WDR HD
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
-#EXTINF:-1,NDR
+#EXTINF:-1,NDR HD
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
-#EXTINF:-1,BR
+#EXTINF:-1,BR HD
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
-#EXTINF:-1,SWR
+#EXTINF:-1,SWR HD
 https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
-#EXTINF:-1,HR
+#EXTINF:-1,HR HD
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
-#EXTINF:-1,RBB
+#EXTINF:-1,RBB HD
 https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
-#EXTINF:-1,Sport1
+#EXTINF:-1,Sport1 HD
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 #EXTINF:-1,Welt
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
@@ -269,49 +228,44 @@ https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
 #EXTINF:-1,Disney Channel
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1,Comedy Central
+#EXTINF:-1,Comedy Central HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
-#EXTINF:-1,Kabel Eins Doku
+#EXTINF:-1,Kabel Eins Doku*
 https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-HLS8/kabel1doku.m3u8
-#EXTINF:-1,SRF 1
+#EXTINF:-1,SRF 1 HD
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1,SRF 2
+#EXTINF:-1,SRF 2 HD
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-#EXTINF:-1,SRF Info
+#EXTINF:-1,SRF Info HD
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1,ORF 1
+#EXTINF:-1,ORF 1 HD
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTINF:-1,ORF 2
+#EXTINF:-1,ORF 2 HD
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1,CNN HD
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,Bloomberg HD
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
-#EXTINF:-1,Al Jazeera
+#EXTINF:-1,Al Jazeera HD
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
-#EXTINF:-1,France 24
+#EXTINF:-1,France 24 HD
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="Sonnenklar TV" group-title="Deutschland",Sonnenklar TV
+#EXTINF:-1 tvg-name="Sonnenklar TV" group-title="Deutschland",Sonnenklar TV HD
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTM3U
 #EXTINF:-1,123TV
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTM3U
-#EXTINF:-1,123TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://123tv-mx1.flex-cdn.net/index.m3u8
-https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
-#EXTM3U
-#EXTINF:-1,HSE24
+#EXTINF:-1,HSE24 HD
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 #EXTINF:-1,HSE Trend
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTM3U
-#EXTINF:-1,HSE Extra
+#EXTINF:-1,HSE Extra HD
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="Juwelo TV" group-title="Deutschland",Juwelo TV
+#EXTINF:-1 tvg-name="Juwelo TV" group-title="Deutschland",Juwelo TV HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 #EXTM3U
 #EXTINF:-1,KaufBei TV
@@ -319,31 +273,12 @@ https://api.alpaca.t62a.com/hls/9103/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="QVC" group-title="Deutschland",QVC
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:-1,QVC Style
-https://qvcde-style-live.akamaized.net/hls/live/2097105/qvcstyle/master.m3u8
-#EXTINF:-1,QVC Beauty
-https://qvcde-beauty-live.akamaized.net/hls/live/2097106/qvcbeauty/master.m3u8
 #EXTM3U
-#EXTINF:-1,More Than Sports TV
+#EXTINF:-1,More Than Sports TV HD
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTM3U
-#EXTINF:-1,World of Freesports
+#EXTINF:-1,World of Freesports HD
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="RTL Crime" group-title="Deutschland",RTL Crime
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
-#EXTINF:-1,RTL Passion
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8
-
-#EXTINF:-1,RTL Living
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31368/index.m3u8
-
-#EXTINF:-1,13th Street
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15179/index.m3u8
-
-#EXTINF:-1,Syfy
-http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15180/index.m3u8
-#EXTM3U
 #EXTINF:-1,DW Deutsch
 https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 #EXTINF:-1,DW English
@@ -355,62 +290,58 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTM3U
-#EXTINF:-1,RT DE
+#EXTINF:-1,RT DE HD
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="WELT" group-title="News",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1,TF1
+#EXTINF:-1,TF1 HD
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 
-#EXTINF:-1,France 2
+#EXTINF:-1,France 2 HD
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 
-#EXTINF:-1,France 3
+#EXTINF:-1,France 3 HD
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 
-#EXTINF:-1,France 5
+#EXTINF:-1,France 5 HD
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-#EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
+#EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild HD
 https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
+#EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV HD
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png",Red Bull TV
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD" tvg-id="Anixe.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-name="More than Sports TV" tvg-id="morethansports.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png",More than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
+#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat HD
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 group-title="AT",RIC TV
+#EXTINF:-1 group-title="AT",RIC TV HD
 https://simplitv-live.mdn.ors.at/live/eds/ric_today_hd/hls_nodrm/ric_today_hd-nodrm.m3u8
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA HD
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-id="DeLuxeMusicRap.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrap.png",DELUXE MUSIC RAP
+#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-id="DeLuxeMusicRap.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrap.png",DELUXE MUSIC RAP HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen HD
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
+#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV HD
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Bibel TV Impuls" tvg-id="BibelTVImpuls.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Impuls
+#EXTINF:-1 tvg-name="Bibel TV Impuls" tvg-id="BibelTVImpuls.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Impuls HD
 https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Bibel TV Musik" tvg-id="BibelTVMusik.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Musik
+#EXTINF:-1 tvg-name="Bibel TV Musik" tvg-id="BibelTVMusik.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Musik HD
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV
+#EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV HD
 https://1775071782.rsc.cdn77.org/1775071782/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ERF 1" tvg-id="ERFeins.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png",ERF 1
-https://bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/6194387526001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-name="SportBild" tvg-id="SPORTBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png",SPORT BILD TV
+#EXTINF:-1 tvg-name="SportBild" tvg-id="SPORTBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png",SPORT BILD TV HD
 https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
-#EXTINF:-1 tvg-name="wir24.tv" tvg-id="wir24.tv" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wirtv24.png",Wir24TV
-https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
 #EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-name="SonnenklarTV HD" tvg-id="sonnenklar.tv" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sonnenklartv.png",SonnenklarTV HD
@@ -427,7 +358,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen HD
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
