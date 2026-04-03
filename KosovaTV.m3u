@@ -19,7 +19,7 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-l
 #EXTM3U
 #EXTINF:-1 tvg-name="RTV21 HD" group-title="Balkan",RTV21 HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
-#EXTINF:-1 tvg-id="RTV21KS.al",RTV 21 Kosova
+#EXTINF:-1 tvg-id="RTV21KS.al",RTV 21 Maqedonia
 https://t2.tvmak.com/tv/RTV21KS.m3u8
 #EXTINF:-1,RTV 21 Mix
 https://t2.tvmak.com/tv/RTV21MIX.m3u8
