@@ -33,9 +33,6 @@ https://t2.tvmak.com/tv/RTV21JUNIOR.m3u8
 #EXTINF:-1 tvg-name="Euronews Albania" group-title="Balkan",Euronews Albania
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="ZICO TV" group-title="Balkan",ZICO TV
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-name="PRO1 TV" group-title="Balkan",PRO1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
 #EXTM3U
