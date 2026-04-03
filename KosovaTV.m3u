@@ -11,6 +11,8 @@ https://t2.tvmak.com/tv/RTK3.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="KTV HD" group-title="Balkan",KTV HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVKOHA.al",TV Koha
+https://t2.tvmak.com/tv/TVKOHA.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="T7 HD" group-title="Balkan",T7 HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
@@ -50,8 +52,6 @@ https://t2.tvmak.com/tv/ZICOTV.m3u8
 https://t2.tvmak.com/tv/ALBFILMTV1.m3u8
 #EXTINF:-1,TV Era
 https://t2.tvmak.com/tv/TVERA.m3u8
-#EXTINF:-1 tvg-id="TVKOHA.al",TV Koha
-https://t2.tvmak.com/tv/TVKOHA.m3u8
 #EXTINF:-1,RTV Ilirida Femije
 https://t2.tvmak.com/tv/RTVILIRIDAFEMIJ.m3u8
 #EXTINF:-1,RTV Red
