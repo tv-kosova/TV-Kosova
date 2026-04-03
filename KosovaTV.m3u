@@ -21,8 +21,6 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-l
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
 #EXTINF:-1 tvg-id="RTV21KS.al",RTV 21 Kosova
 https://t2.tvmak.com/tv/RTV21KS.m3u8
-#EXTINF:-1 tvg-id="MRT2.mk",MRT 2
-https://t2.tvmak.com/tv/MRT2.m3u8
 #EXTINF:-1,RTV 21 Mix
 https://t2.tvmak.com/tv/RTV21MIX.m3u8
 #EXTINF:-1 tvg-id="RTV21Plus.al",RTV 21 Plus
@@ -33,6 +31,8 @@ https://t2.tvmak.com/tv/RTV21POPULLORE.m3u8
 https://t2.tvmak.com/tv/RTV21JUNIOR.m3u8
 #EXTINF:-1 tvg-name="PRO1 TV" group-title="Balkan",PRO1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
+#EXTINF:-1 tvg-id="MRT2.mk",MRT 2
+https://t2.tvmak.com/tv/MRT2.m3u8
 #EXTINF:-1,Dasma TV
 https://t2.tvmak.com/tv/DASMATV.m3u8
 #EXTINF:-1,Shota TV
@@ -57,6 +57,8 @@ https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-name="RTL" group-title="Deutschland",RTL HD
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1,RTL Nitro
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1 tvg-name="RTL Zwei" group-title="Deutschland",RTL Zwei HD
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 #EXTINF:-1 tvg-name="ProSieben" group-title="Deutschland",ProSieben HD
