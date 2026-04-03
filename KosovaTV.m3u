@@ -31,13 +31,77 @@ https://t2.tvmak.com/tv/RTV21PLUS.m3u8
 https://t2.tvmak.com/tv/RTV21POPULLORE.m3u8
 #EXTINF:-1 tvg-id="RTV21Junior.al",RTV 21 Junior
 https://t2.tvmak.com/tv/RTV21JUNIOR.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="Euronews Albania" group-title="Balkan",Euronews Albania
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-name="PRO1 TV" group-title="Balkan",PRO1 TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
+#EXTINF:-1,Dasma TV
+https://t2.tvmak.com/tv/DASMATV.m3u8
+#EXTINF:-1,Shota TV
+https://t2.tvmak.com/tv/SHOTATV.m3u8
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="One.de" group-title="ARD",ONE HD
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" group-title="ARD",ARD tagesschau24 HD
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="ZDF",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="ZDF",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 group-title="ARD/ZDF/ORF",ORF 1 HD
+https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
+#EXTINF:-1,SRF 1 HD
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+#EXTINF:-1,SRF 2 HD
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
+#EXTINF:-1 tvg-name="RTL" group-title="Deutschland",RTL HD
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-name="RTL Zwei" group-title="Deutschland",RTL Zwei HD
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-name="ProSieben" group-title="Deutschland",ProSieben HD
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="SAT.1" group-title="Deutschland",SAT.1 HD
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1,SAT.1 Gold HD
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+EXTINF:-1,Kabel Eins HD
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTM3U
+#EXTINF:-1,VOX HD
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:-1,Super RTL HD
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+#EXTINF:-1 tvg-name="SIXX" group-title="Deutschland",SIXX HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1,Tele 5
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
+#EXTINF:-1,Disney Channel
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1,Comedy Central HD
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1,Sport1 HD
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-name="Saarland Fernsehen 1" group-title="Deutschland",Saarland Fernsehen 1 HD
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Saarland Fernsehen 2" group-title="Deutschland",Saarland Fernsehen 2 HD
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1,Welt
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+#EXTINF:-1 group-title="ORF",ORF 2 HD
+https://test02.mdn.ors.at/orf/orf2/qxa/manifest.mpd
+#EXTINF:-1 group-title="ORF",ORF III HD
+https://test02.mdn.ors.at/orf/orf3/qxa/manifest.mpd
+#EXTINF:-1 group-title="ORF",ORF Sport+ HD
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.mpd
+#EXTINF:-1 group-title="ORF",ORF KIDS HD
+https://test02.mdn.ors.at/orf/orfk/qxa/manifest.mpd
+#EXTINF:-1,SRF Info HD
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+#EXTINF:-1 tvg-name="Euronews Albania" group-title="Balkan",Euronews Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 #EXTINF:-1 tvg-name="Arta News" group-title="Balkan",Arta News
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1,RTV Pendimi
@@ -74,10 +138,6 @@ https://t2.tvmak.com/tv/TV2GV.m3u8
 https://t2.tvmak.com/tv/SYRIVISION.m3u8
 #EXTINF:-1,Alb UK
 https://t2.tvmak.com/tv/ALBUK1.m3u8
-#EXTINF:-1,Dasma TV
-https://t2.tvmak.com/tv/DASMATV.m3u8
-#EXTINF:-1,Shota TV
-https://t2.tvmak.com/tv/SHOTATV.m3u8
 #EXTINF:-1,Alb TV Chicago
 https://t2.tvmak.com/tv/ALBTVCHICAGO.m3u8
 #EXTINF:-1,TV Korca
@@ -112,32 +172,6 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1,AlbKanale Music
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="One.de" group-title="ARD",ARD ONE HD
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de" group-title="ARD",ARD alpha HD
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" group-title="ARD",ARD tagesschau24 HD
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" group-title="ZDF",ZDFneo HD
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="ZDF",ZDFinfo HD
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 group-title="ARD/ZDF/ORF",ORF 1 HD
-https://test04.mdn.ors.at/orf/orf1/qxb/manifest.m3u8
-#EXTINF:-1 group-title="ORF",ORF 2 HD
-https://test02.mdn.ors.at/orf/orf2/qxa/manifest.mpd
-#EXTINF:-1 group-title="ORF",ORF III HD
-https://test02.mdn.ors.at/orf/orf3/qxa/manifest.mpd
-#EXTINF:-1 group-title="ORF",ORF Sport+ HD
-https://test02.mdn.ors.at/orf/orfs/qxa/manifest.mpd
-#EXTINF:-1 group-title="ORF",ORF KIDS HD
-https://test02.mdn.ors.at/orf/orfk/qxa/manifest.mpd
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat HD
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
@@ -145,6 +179,8 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 group-title="Sport",DF1 HD
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha HD
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" group-title="ARD",ARD alpha HD
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
@@ -160,46 +196,18 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT HD
 https://welt.personalstream.tv/v1/master.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="Saarland Fernsehen 1" group-title="Deutschland",Saarland Fernsehen 1 HD
-https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="Saarland Fernsehen 2" group-title="Deutschland",Saarland Fernsehen 2 HD
-https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="RTL" group-title="Deutschland",RTL HD
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="RTL Zwei" group-title="Deutschland",RTL Zwei HD
-https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="ProSieben" group-title="Deutschland",ProSieben HD
-https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="SAT.1" group-title="Deutschland",SAT.1 HD
-https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
-#EXTINF:-1,SAT.1 Gold HD
-https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-EXTINF:-1,Kabel Eins HD
-https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTM3U
-#EXTINF:-1,VOX HD
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTINF:-1,Super RTL HD
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 #EXTINF:-1,RTL Nitro*
 https://viamotionhsi.netplus.ch/live/eds/nitro/browser-HLS8/nitro.m3u8
 #EXTINF:-1,n-tv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
 #EXTINF:-1,VOX Up*
 https://viamotionhsi.netplus.ch/live/eds/voxup/browser-HLS8/voxup.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-name="SIXX" group-title="Deutschland",SIXX HD
-https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1,Das Erste HD
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 #EXTINF:-1,ZDF HD
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" group-title="ZDF",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1,ZDF Neo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 #EXTINF:-1,ZDF Info HD
@@ -220,24 +228,8 @@ https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
 #EXTINF:-1,RBB HD
 https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
-#EXTINF:-1,Sport1 HD
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
-#EXTINF:-1,Welt
-https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1,Tele 5
-https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
-#EXTINF:-1,Disney Channel
-https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1,Comedy Central HD
-https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 #EXTINF:-1,Kabel Eins Doku*
 https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-HLS8/kabel1doku.m3u8
-#EXTINF:-1,SRF 1 HD
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1,SRF 2 HD
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-#EXTINF:-1,SRF Info HD
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 #EXTINF:-1,ORF 1 HD
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 #EXTINF:-1,ORF 2 HD
@@ -362,8 +354,6 @@ https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-name="ARD Event 2" tvg-id="ARDEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 2
