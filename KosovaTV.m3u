@@ -2,14 +2,178 @@
 # ===== RTK 1 Direktstream (Viamotion HLS) =====
 #EXTINF:-1 tvg-id="RTK1.al" tvg-name="RTK 1",RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+#EXTINF:-1,RTK 1 (Gjirafa)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+EXTINF:-1,RTK 3 HD
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTK3.al",RTK 3
+https://t2.tvmak.com/tv/RTK3.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="KTV" group-title="Balkan",KTV
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="T7" group-title="Balkan",T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="Syri Vision" group-title="Balkan",Syri Vision
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="RTV21 HD group-title="Balkan",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+#EXTINF:-1 tvg-id="RTV21KS.al",RTV 21 Kosova
+https://t2.tvmak.com/tv/RTV21KS.m3u8
+#EXTINF:-1 tvg-id="MRT2.mk",MRT 2
+https://t2.tvmak.com/tv/MRT2.m3u8
 #EXTINF:-1,RTV 21 Mix
 https://t2.tvmak.com/tv/RTV21MIX.m3u8
 #EXTINF:-1 tvg-id="RTV21Plus.al",RTV 21 Plus
 https://t2.tvmak.com/tv/RTV21PLUS.m3u8
+#EXTINF:-1 tvg-id="21Popullore.al",RTV 21 Popullore
+https://t2.tvmak.com/tv/RTV21POPULLORE.m3u8
 #EXTINF:-1 tvg-id="RTV21Junior.al",RTV 21 Junior
 https://t2.tvmak.com/tv/RTV21JUNIOR.m3u8
 #EXTINF:-1,RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="Euronews Albania" group-title="Balkan",Euronews Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="A2 CNN Albania" group-title="Balkan",A2 CNN Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0d6-7zo-3n3-8x9/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="ZICO TV" group-title="Balkan",ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="PRO1 TV" group-title="Balkan",PRO1 TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="TV Prizreni" group-title="Balkan",TV Prizreni
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="Arta News" group-title="Balkan",Arta News
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1,RTV Pendimi
+https://t2.tvmak.com/tv/RTVPENDIMI.m3u8
+#EXTINF:-1,Uskana Tetove
+https://t2.tvmak.com/tv/USKANATETOVE.m3u8
+#EXTINF:-1,Uskana Kercove
+https://t2.tvmak.com/tv/USKANAKERCOVE.m3u8
+#EXTINF:-1,RTV Ilirida Dokumentar
+https://t2.tvmak.com/tv/RTVILIRIDADOKUMENTAR.m3u8
+#EXTINF:-1,Zico TV
+https://t2.tvmak.com/tv/ZICOTV.m3u8
+#EXTINF:-1,AlbFilm TV 1
+https://t2.tvmak.com/tv/ALBFILMTV1.m3u8
+#EXTINF:-1,AlbFilm TV 2
+https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
+#EXTINF:-1,TV Era
+https://t2.tvmak.com/tv/TVERA.m3u8
+#EXTINF:-1 tvg-id="TVKOHA.al",TV Koha
+https://t2.tvmak.com/tv/TVKOHA.m3u8
+#EXTINF:-1,RTV Ilirida Femije
+https://t2.tvmak.com/tv/RTVILIRIDAFEMIJ.m3u8
+#EXTINF:-1,RTV Red
+https://t2.tvmak.com/tv/RTVRED.m3u8
+#EXTINF:-1,RTV Ilirida Humor
+https://t2.tvmak.com/tv/RTVILIRIDAHUMOR.m3u8
+#EXTINF:-1,Top Estrada TV
+https://t2.tvmak.com/tv/TOPESTRADATV.m3u8
+#EXTINF:-1,MTV Kosova
+https://t2.tvmak.com/tv/MTVKOSOVA.m3u8
+#EXTINF:-1,RTV Iliria
+https://t2.tvmak.com/tv/RTVILIRIA.m3u8
+#EXTINF:-1,RTV Ilirida Film
+https://t2.tvmak.com/tv/RTVILIRIDAFILM.m3u8
+#EXTINF:-1,Turbo Channel
+https://t2.tvmak.com/tv/TURBOCHANNEL.m3u8
+#EXTINF:-1,Istogu Channel
+https://t2.tvmak.com/tv/ISTOGUCHANNEL.m3u8
+#EXTINF:-1 tvg-id="TVTema.al",TV Tema
+https://t2.tvmak.com/tv/TVTEMA.m3u8
+#EXTINF:-1 tvg-id="SyriTV.al",TV Syri
+https://t2.tvmak.com/tv/TVSYRI.m3u8
+#EXTINF:-1,Hi Music
+https://t2.tvmak.com/tv/HIMUSIC.m3u8
+#EXTINF:-1,Ulqini TV
+https://t2.tvmak.com/tv/ULQINITV.m3u8
+#EXTINF:-1,AA New York
+https://t2.tvmak.com/tv/AANEWYORK.m3u8
+#EXTINF:-1,TV Dielli
+https://t2.tvmak.com/tv/TVDIELLI.m3u8
+#EXTINF:-1,TV Arberia 1
+https://t2.tvmak.com/tv/TVARBERIA1.m3u8
+#EXTINF:-1,TV Arberia 3
+https://t2.tvmak.com/tv/TVARBERIA3.m3u8
+#EXTINF:-1,TV Arberia 5
+https://t2.tvmak.com/tv/TVARBERIA5.m3u8
+#EXTINF:-1,TV Opoja
+https://t2.tvmak.com/tv/TVOPOJA.m3u8
+#EXTINF:-1,TV Globi
+https://t2.tvmak.com/tv/TVGLOBI.m3u8
+#EXTINF:-1,TV 2
+https://t2.tvmak.com/tv/TV2GV.m3u8
+#EXTINF:-1,Syri Vision
+https://t2.tvmak.com/tv/SYRIVISION.m3u8
+#EXTINF:-1,Alb UK
+https://t2.tvmak.com/tv/ALBUK1.m3u8
+#EXTINF:-1,Dasma TV
+https://t2.tvmak.com/tv/DASMATV.m3u8
+#EXTINF:-1,Shota TV
+https://t2.tvmak.com/tv/SHOTATV.m3u8
+#EXTINF:-1,Alb TV Chicago
+https://t2.tvmak.com/tv/ALBTVCHICAGO.m3u8
+#EXTINF:-1,NTV Durres
+https://t2.tvmak.com/tv/NTVDURRES.m3u8
+#EXTINF:-1,TV Korca
+https://t2.tvmak.com/tv/TVKORCA.m3u8
+#EXTINF:-1,Spin TV
+https://t2.tvmak.com/tv/SPINTV.m3u8
+#EXTINF:-1,Alb Swiss
+https://t2.tvmak.com/tv/ALBSWISS.m3u8
+#EXTINF:-1,TV Besa
+https://t2.tvmak.com/tv/TVBESA.m3u8
+#EXTINF:-1,Alpo Media
+https://t2.tvmak.com/tv/ALPOMEDIA.m3u8
+#EXTINF:-1,Flaka TV
+https://t2.tvmak.com/tv/FLAKATV.m3u8
+#EXTINF:-1,TV Mitrovica
+https://t2.tvmak.com/tv/TVMITROVICA.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al",Zjarr TV
+https://t2.tvmak.com/tv/ZJARRTV.m3u8
+#EXTINF:-1,Star Plus
+https://t2.tvmak.com/tv/STARPLUS.m3u8
+#EXTINF:-1,TV Rozafa
+https://t2.tvmak.com/tv/TVROZAFA.m3u8
+#EXTINF:-1,RTV Scan
+https://t2.tvmak.com/tv/RTVSCAN.m3u8
+#EXTINF:-1,TV Kopliku
+https://t2.tvmak.com/tv/TVKOPLIKU.m3u8
+#EXTINF:-1,TV Prizreni
+https://t2.tvmak.com/tv/TVPRIZRENI.m3u8
+#EXTINF:-1,El Kalem
+https://t2.tvmak.com/tv/ELKALEM.m3u8
+#EXTINF:-1,Meka TV
+https://t2.tvmak.com/tv/MEKATV.m3u8
+#EXTINF:-1,Drita TV
+https://t2.tvmak.com/tv/DRITATV.m3u8
+#EXTINF:-1,RTV Islam
+https://t2.tvmak.com/tv/RTVISLAM.m3u8
+#EXTINF:-1,Amol TV
+https://t2.tvmak.com/tv/AMOL.m3u8
+#EXTINF:-1,AlbDreams TV
+https://t2.tvmak.com/tv/ALBDREAMSTV.m3u8
+#EXTINF:-1,RTV Alb SE
+https://t2.tvmak.com/tv/RTVALBSE.m3u8
+#EXTINF:-1,TV Apollon
+https://t2.tvmak.com/tv/TVAPOLLON.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al",Albkanal Music TV
+https://t2.tvmak.com/tv/ALBKANALMUSICTV.m3u8
+#EXTINF:-1,Club TV
+https://t2.tvmak.com/tv/CLUBTV.m3u8
+#EXTINF:-1,RTV Ilirida
+https://t2.tvmak.com/tv/RTVILIRIDA1.m3u8
+#EXTINF:-1,RTV Ilirida Music
+https://t2.tvmak.com/tv/RTVILIRIDAMUSIC.m3u8
 #EXTINF:-1,RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 # ===== Added Public Albanian Streams =====
@@ -238,6 +402,17 @@ https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="WELT" group-title="News",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+#EXTINF:-1,TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+#EXTINF:-1,France 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+
+#EXTINF:-1,France 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+
+#EXTINF:-1,France 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 #EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
