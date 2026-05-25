@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/albania1.xml.gz,https://www.open-epg.com/files/croatia1.xml.gz,https://www.open-epg.com/files/croatia3.xml.gz"
 # ===== RTK 1 Direktstream (Viamotion HLS) =====
-#EXTINF:-1 tvg-id="RTK1.al" tvg-name="RTK 1",RTK 1
-https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 #EXTINF:-1,RTK 1 SAT HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 EXTINF:-1,RTK 3 
