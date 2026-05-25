@@ -197,33 +197,14 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTM3U
 #EXTINF:-1,World of Freesports HD
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1,DW Deutsch
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
-#EXTINF:-1,DW English
-https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
-
 #EXTINF:-1,DW Deutsch+
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTM3U
 #EXTINF:-1,RT DE HD
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="WELT" group-title="News",WELT
-https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1,TF1 HD
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-
-#EXTINF:-1,France 2 HD
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-
-#EXTINF:-1,France 3 HD
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-
-#EXTINF:-1,France 5 HD
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 #EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild HD
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV HD
