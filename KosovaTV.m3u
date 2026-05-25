@@ -169,12 +169,6 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT HD
 https://welt.personalstream.tv/v1/master.m3u8
-#EXTINF:-1,RTL Nitro*
-https://viamotionhsi.netplus.ch/live/eds/nitro/browser-HLS8/nitro.m3u8
-#EXTINF:-1,n-tv
-https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
-#EXTINF:-1,VOX Up*
-https://viamotionhsi.netplus.ch/live/eds/voxup/browser-HLS8/voxup.m3u8
 #EXTINF:-1,Das Erste HD
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 #EXTINF:-1,ZDF HD
