@@ -59,22 +59,12 @@ EXTINF:-1,Kabel Eins HD
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="SIXX" group-title="Deutschland",SIXX HD
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1,Tele 5
-https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
-#EXTINF:-1,Disney Channel
-https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1,Comedy Central HD
-https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
-#EXTINF:-1,Sport1 HD
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-name="Saarland Fernsehen 1" group-title="Deutschland",Saarland Fernsehen 1 HD
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Saarland Fernsehen 2" group-title="Deutschland",Saarland Fernsehen 2 HD
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1,Welt
-https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 group-title="ORF",ORF 2 HD
 https://test02.mdn.ors.at/orf/orf2/qxa/manifest.mpd
 #EXTINF:-1 group-title="ORF",ORF III HD
@@ -83,8 +73,6 @@ https://test02.mdn.ors.at/orf/orf3/qxa/manifest.mpd
 https://test02.mdn.ors.at/orf/orfs/qxa/manifest.mpd
 #EXTINF:-1 group-title="ORF",ORF KIDS HD
 https://test02.mdn.ors.at/orf/orfk/qxa/manifest.mpd
-#EXTINF:-1,SRF Info HD
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 #EXTINF:-1 tvg-name="Euronews Albania" group-title="Balkan",Euronews Albania
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
 #EXTINF:-1 tvg-name="Arta News" group-title="Balkan",Arta News
