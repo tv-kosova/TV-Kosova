@@ -877,3 +877,38 @@ https://cachehsi1a.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 
 #EXTINF:-1,RTL Zwei HD
 https://cachehsi1a.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Das Erste HD",Das Erste HD
+rtp://@239.35.10.1:10000
+
+#EXTINF:-1 tvg-name="ZDF HD",ZDF HD
+rtp://@239.35.10.2:10000
+
+#EXTINF:-1 tvg-name="arte HD",arte HD
+rtp://@239.35.10.3:10000
+
+#EXTINF:-1 tvg-name="3sat HD",3sat HD
+rtp://@239.35.10.47:10000
+
+#EXTINF:-1 tvg-name="Phoenix HD",Phoenix HD
+rtp://@239.35.10.48:10000
+
+#EXTINF:-1 tvg-name="ONE HD",ONE HD
+rtp://@239.35.10.58:10000
+
+#EXTINF:-1 tvg-name="tagesschau24 HD",tagesschau24 HD
+rtp://@239.35.10.63:10000
+
+#EXTINF:-1 tvg-name="ARD alpha",ARD alpha
+rtp://@239.35.10.24:10000
+
+#EXTINF:-1 tvg-name="KiKA HD",KiKA HD
+rtp://@239.35.10.11:10000
+
+#EXTINF:-1 tvg-name="ZDFneo HD",ZDFneo HD
+rtp://@239.35.10.55:10000
+
+#EXTINF:-1 tvg-name="ZDFinfo HD",ZDFinfo HD
+rtp://@239.35.10.56:10000
