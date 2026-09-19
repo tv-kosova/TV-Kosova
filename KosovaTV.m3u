@@ -59,6 +59,31 @@ EXTINF:-1,Kabel Eins HD
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="SIXX" group-title="Deutschland",SIXX HD
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+RTL
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+RTLZWEI
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+SUPER RTL
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+# Bild vorhanden, kein Ton
+NITRO
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+n-tv
+https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+WELT
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+ProSieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+SAT.1
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+SIXX
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+SAT.1 GOLD
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+Kabel Eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-name="Saarland Fernsehen 1" group-title="Deutschland",Saarland Fernsehen 1 HD
