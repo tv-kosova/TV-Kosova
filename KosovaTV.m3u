@@ -1,4 +1,255 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/albania1.xml.gz,https://www.open-epg.com/files/croatia1.xml.gz,https://www.open-epg.com/files/croatia3.xml.gz"
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEUTSCHLAND LOCAL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO/DE/BAYRAK.png" group-title="DE åš?i,[] DEUTSCHLAND",åš?i,[] DEUTSCHLAND LOCAL åš?i
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/134700
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA TV INFO" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/REGIONAL/MAGENTA.INFO.png" group-title="DE åš?i,[] REGIONAL",DE: MAGENTA TV INFO
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/114322
+
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/DAS.ERSTE.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: DAS ERSTE FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/8878
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/DAS.ERSTE.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: DAS ERSTE HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/197269
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/ZDF.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: ZDF HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/140393
+
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: RTL FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: RTL FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/109151
+
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="DE: RTL UP FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.UP.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: RTL UP FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/61968
+
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL 2 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.2.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: RTL 2 FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/81076
+
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT 1 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/SAT.1.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: SAT 1 FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/92972
+
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 GOLD FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/SAT.1.GOLD.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: SAT 1 GOLD FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/81886
+
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="DE: SAT 1 EMOTIONS" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/SAT.1.EMOTIONS.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: SAT 1 EMOTIONS
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/32845
+
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: ProSieben FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/PROSIEBEN.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: ProSieben FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/161090
+
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: ProSieben MAXX FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/PROSIEBEN.MAXX.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: ProSieben MAXX FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/162635
+
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="DE: ProSieben FUN HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/PROSIEBEN.FUN.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: ProSieben FUN HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/99319
+
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/VOX.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: VOX FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/4126
+
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOXUP HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/VOX.UP.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: VOXUP HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/87341
+
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL 1 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/KABELEINS.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: KABEL 1 FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/92222
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 CLASSICS" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/KABELEINS.CLASSICS.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: KABEL 1 CLASSICS
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/9158
+
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL CRIME FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.CRIME.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: RTL CRIME FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/11157
+
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL LIVING" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.LIVING.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: RTL LIVING
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEUTSCHLAND LOCAL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO/DE/BAYRAK.png" group-title="DE åš?i,[] DEUTSCHLAND",åš?i,[] DEUTSCHLAND LOCAL åš?i
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/134700
+
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL NITRO FHD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.NITRO.png" group-title="DE åš?i,[] DEUTSCHLAND",DE:
+RTL NITRO FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/70837
+
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX FHD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/SIXX.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: SIXX
+FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/53131
+
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/TELE.5.png" group-title="DE åš?i,[] DEUTSCHLAND",DE:
+TELE 5 HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/31898
+
+
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE: QVC HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/QVC.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: QVC HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/11486
+
+#EXTINF:-1 tvg-id="hse24.de" tvg-name="DE: HS24 HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/HSE.24.png" group-title="DE åš?i,[] DEUTSCHLAND",DE:
+HS24 HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/81579
+
+#EXTINF:-1 tvg-id="hse24extrahd.de" tvg-name="DE: HSE 24 EXTRA HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/HSE.24.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: HSE
+24 EXTRA HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/173910
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Wedo Movies HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/WEDO.MOVIES.png" group-title="DE åš?i,[] DEUTSCHLAND",DE:
+Wedo Movies HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/60799
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sonnenklar TV" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/REGIONAL/SONNENKLAR.png" group-title="DE åš?i,[] REGIONAL",DE:
+Sonnenklar TV
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/54430
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: XPLORE HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/EKSIKLER/XPLORE.png" group-title="DE åš?i,[] REGIONAL",DE: XPLORE HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/174257
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: ShopLC" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/REGIONAL/SHOPLC.png"
+group-title="DE åš?i,[] REGIONAL",DE: ShopLC
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/94954
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: pearl.tv HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/EKSIKLER/PEARL.png" group-title="DE åš?i,[] REGIONAL",DE: pearl.tv
+HD Shop
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/174198
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Juvelo HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/EKSIKLER/JUVELO.png" group-title="DE åš?i,[] REGIONAL",DE: Juvelo HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/17419
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: QVC ZWEI HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/EKSIKLER/QVC.ZWEI.png" group-title="DE åš?i,[] REGIONAL",DE: QVC
+ZWEI HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/174192
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: Handystar TV HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/EKSIKLER/HANDY.png" group-title="DE åš?i,[] REGIONAL",DE: Handystar
+TV HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/174193
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: QVC STYLE HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/EKSIKLER/STYLE.png" group-title="DE åš?i,[] REGIONAL",DE: QVC STYLE
+HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/174194
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMF" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/EKSIKLER/DMF.png"
+group-title="DE åš?i,[] REGIONAL",DE: DMF
+
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.ONE.png" group-title="DE: SKY ONE FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/7442
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="DE: SKY CRIME FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/SKY.CRIME.png" group-title="DE: SKY CRIME FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/120271
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY CINEMA KRIMI FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.KRIMI.png" group-title="DE: SKY CINEMA KRIMI FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/89790
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.ACTION.png" group-title="DE: SKY CINEMA ACTION FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/3455
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.PREMIEREN.png" group-title="DE: SKY CINEMA PREMIEREN FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/68890
+#EXTINF:-1 tvg-id="skyshowcasehd.de" tvg-name="DE: SKY SHOWCASE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/SHOWCASE.png" group-title="DE: SKY SHOWCASE FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/77474
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: SKY CINEMA FAMILY HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.FAMILY.png" group-title="ENTERTAINMENT",DE: SKY CINEMA FAMILY HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/69496
+
+#EXTINF:-1 tvg-id="skycinemahighlights.de" tvg-name="DE: SKY CINEMA SPECIALFHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.SPECIAL.png" group-title="ENTERTAINMENT",DE: SKY CINEMA SPECIALFHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/129930
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA CLASSICS FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.CLASSICS.png" group-title="ENTERTAINMENT",DE: SKY CINEMA CLASSICS FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/31378
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY CINEMA ATLANTIC FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.ATLANTIC.png" group-title="ENTERTAINMENT",DE: SKY CINEMA ATLANTIC FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/165969
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: SKY ROMANCE TV" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/SKY.ROMANCE.png" group-title="ENTERTAINMENT",DE: SKY ROMANCE TV
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/141862
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER TV COMEDY FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/WARNER.TV.COMEDY.png" group-title="ENTERTAINMENT",DE: WARNER TV COMEDY FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/52143
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER TV FILM FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/WARNER.TV.FILM.png" group-title="ENTERTAINMENT",DE: WARNER TV FILM FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/144508
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/WARNER.TV.SERIE.png" group-title="ENTERTAINMENT",DE: WARNER TV SERIE FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/1683
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13TH STREET FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/13.TH.STREET.png" group-title="ENTERTAINMENT",DE: 13TH STREET FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/11258
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SYFY.png" group-title="DE: SYFY FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/108617
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: UNIVERSAL TV FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/UNIVERSAL.png" group-title="DE: UNIVERSAL TV FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/64683
+#EXTINF:-1 tvg-id="axn.de" tvg-name="DE: AXN BLACK FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/AXN.BLACK.png" group-title="ENTERTAINMENT",DE: AXN BLACK FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/8377
+#EXTINF:-1 tvg-id="axn.de" tvg-name="DE: AXN WHITE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/AXN.WHITE.png" group-title="ENTERTAINMENT",DE: AXN WHITE FHD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/148055
+#EXTINF:-1 tvg-id="silverline.de" tvg-name="DE: SILVERLINE HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/SILVERLINE.png" group-title="ENTERTAINMENT",DE: SILVERLINE HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/103714
+#EXTINF:-1 tvg-id="nowtv.de" tvg-name="DE: NOW TV" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/NOW.png" group-title="ENTERTAINMENT",DE: NOW TV
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/20615
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY HEIMATKANAL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/HEIMAT.png" group-title="ENTERTAINMENT",DE: SKY HEIMATKANAL
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="DE: KINOWELT HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/KINOWELT.png" group-title="DE: KINOWELT HD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/144086
+#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY DOKU" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.DE/BAYRAK.png" group-title="DE: DOKU"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/83799
+
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NAT GEO FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/NAT.GEO.png" group-title="DE: NAT GEO FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/54610
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NAT GEO WILD FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/NAT.GEO.WILD.png" group-title="DE: NAT GEO WILD FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/20592
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/DISCOVERY.png" group-title="DE: DISCOVERY FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/136460
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="DE: ANIMAL PLANET FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/ANIMAL.PLANET.png" group-title="DE: ANIMAL PLANET FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/32988
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/HISTORY.png" group-title="DE: HISTORY FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/27446
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/DMAX.png" group-title="DE: DMAX FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/36613
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.NATURE.png" group-title="DE: SKY NATURE FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/38171
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE: TLC HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/TLC.png" group-title="DE: TLC HD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/19962
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE: ANIXE HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/ANIXE.SERIE.png" group-title="DE: ANIXE HD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/131548
+
+#EXTINF:-1 tvg-id="geotelevision.de" tvg-name="DE: GEO TELEVISION FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/GEO.TELEVISION.png" group-title="DE: GEO TELEVISION FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/63894
+
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: KABEL EINS DOKU FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/KABEL.EINS.DOCU.png" group-title="DE: KABEL EINS DOKU FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/75696
+
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/SKY.DOCU.png" group-title="DE: SKY DOCUMENTARIES FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/146763
+
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY CRIME FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/SKY.CRIME.png" group-title="DE: SKY CRIME FHD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/59126
+
+#EXTINF:-1 tvg-id="hgtv.de" tvg-name="DE: HGTV" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/HGTV.png" group-title="DE: HGTV"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/135814
+
+#EXTINF:-1 tvg-id="waidwerk.de" tvg-name="DE: WAIDWERK HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/WAIDWERK.png" group-title="DE: WAIDWERK HD"
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/150940
+
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="DE: N24 DOKU" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/N24.DOCU.png" group-title="DE: N24 DOKU"
+#EXTINF:-1 tvg-id="dokusat.de" tvg-name="DE: DÖKUSAT" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DOKU/DOCUSAT.png" group-title="DE åš...
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/36973
+
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="DE: CRIME INVESTIGATION" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DOKU/CRIME.INVESTIGATION.png" group-title="DE:
+CRIME INVESTIGATION
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/136
+
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: SPIEGEL GESCHICHTE HD" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/HEVC/SPIEGEL.GESCHICHTE.png" group-title="DE:
+SPIEGEL GESCHICHTE HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/155112
+
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="DE: WELT DER WUNDER" tvg-
+logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DOKU/WELT.DER.WUNDER.png" group-title="DE:
+WELT DER
+WUNDER
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/160140
+
+#EXTINF:-1 tvg-id="" tvg-name="DE: a.tv HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LO
+group-title="DE åš? DOKU",DE: a.tv HD
+http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/136917
+
+
 # ===== RTK 1 Direktstream (Viamotion HLS) =====
 #EXTINF:-1,RTK 1 SAT HD
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
