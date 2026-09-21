@@ -122,41 +122,54 @@ group-title="DE åš?i,[] REGIONAL",DE: DMF
 
 #EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.ONE.png" group-title="DE: SKY ONE FHD"
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/7442
+
 #EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="DE: SKY CRIME FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/DOKU/SKY.CRIME.png" group-title="DE: SKY CRIME FHD"
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/120271
+
 #EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY CINEMA KRIMI FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.KRIMI.png" group-title="DE: SKY CINEMA KRIMI FHD"
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/89790
+
 #EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.ACTION.png" group-title="DE: SKY CINEMA ACTION FHD"
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/3455
+
 #EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.PREMIEREN.png" group-title="DE: SKY CINEMA PREMIEREN FHD"
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/68890
+
 #EXTINF:-1 tvg-id="skyshowcasehd.de" tvg-name="DE: SKY SHOWCASE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/SHOWCASE.png" group-title="DE: SKY SHOWCASE FHD"
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/77474
 
 #EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA CLASSICS FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.CLASSICS.png" group-title="ENTERTAINMENT",DE: SKY CINEMA CLASSICS FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/31378
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY CINEMA ATLANTIC FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SKY.CINEMA.ATLANTIC.png" group-title="ENTERTAINMENT",DE: SKY CINEMA ATLANTIC FHD
-http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/165969
+
 #EXTINF:-1 tvg-id="romance.de" tvg-name="DE: SKY ROMANCE TV" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/SKY.ROMANCE.png" group-title="ENTERTAINMENT",DE: SKY ROMANCE TV
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/141862
+
 #EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER TV COMEDY FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/WARNER.TV.COMEDY.png" group-title="ENTERTAINMENT",DE: WARNER TV COMEDY FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/52143
+
 #EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER TV FILM FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/WARNER.TV.FILM.png" group-title="ENTERTAINMENT",DE: WARNER TV FILM FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/144508
 #EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/WARNER.TV.SERIE.png" group-title="ENTERTAINMENT",DE: WARNER TV SERIE FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/1683
+
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13TH STREET FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/13.TH.STREET.png" group-title="ENTERTAINMENT",DE: 13TH STREET FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/11258
+
 #EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/SYFY.png" group-title="DE: SYFY FHD"
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/108617
+
 #EXTINF:-1 tvg-id="universal.de" tvg-name="DE: UNIVERSAL TV FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/HEVC/UNIVERSAL.png" group-title="DE: UNIVERSAL TV FHD"
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/64683
+
 #EXTINF:-1 tvg-id="axn.de" tvg-name="DE: AXN BLACK FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/AXN.BLACK.png" group-title="ENTERTAINMENT",DE: AXN BLACK FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/8377
+
 #EXTINF:-1 tvg-id="axn.de" tvg-name="DE: AXN WHITE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/AXN.WHITE.png" group-title="ENTERTAINMENT",DE: AXN WHITE FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/148055
+
 #EXTINF:-1 tvg-id="silverline.de" tvg-name="DE: SILVERLINE HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/SILVERLINE.png" group-title="ENTERTAINMENT",DE: SILVERLINE HD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/103714
+
 #EXTINF:-1 tvg-id="nowtv.de" tvg-name="DE: NOW TV" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/NOW.png" group-title="ENTERTAINMENT",DE: NOW TV
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/20615
 #EXTINF:-1 tvg-id="" tvg-name="DE: SKY HEIMATKANAL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI.DE/SKY.ENT/HEIMAT.png" group-title="ENTERTAINMENT",DE: SKY HEIMATKANAL
