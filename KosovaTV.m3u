@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/albania1.xml.gz,https://www.open-epg.com/files/croatia1.xml.gz,https://www.open-epg.com/files/croatia3.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: DEUTSCHLAND LOCAL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO/DE/BAYRAK.png" group-title="DE åš?i,[] DEUTSCHLAND",åš?i,[] DEUTSCHLAND LOCAL åš?i
-http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/134700
-
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA TV INFO" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/REGIONAL/MAGENTA.INFO.png" group-title="DE åš?i,[] REGIONAL",DE: MAGENTA TV INFO
-http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/114322
 
 #EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/DAS.ERSTE.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: DAS ERSTE FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/8878
@@ -30,17 +25,11 @@ http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/92972
 #EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 GOLD FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/SAT.1.GOLD.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: SAT 1 GOLD FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/81886
 
-#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="DE: SAT 1 EMOTIONS" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/SAT.1.EMOTIONS.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: SAT 1 EMOTIONS
-http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/32845
-
 #EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: ProSieben FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/PROSIEBEN.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: ProSieben FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/161090
 
 #EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: ProSieben MAXX FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/PROSIEBEN.MAXX.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: ProSieben MAXX FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/162635
-
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="DE: ProSieben FUN HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/PROSIEBEN.FUN.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: ProSieben FUN HD
-http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/99319
 
 #EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/VOX.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: VOX FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/4126
@@ -51,15 +40,8 @@ http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/87341
 #EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL 1 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/KABELEINS.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: KABEL 1 FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/92222
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 CLASSICS" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/KABELEINS.CLASSICS.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: KABEL 1 CLASSICS
-http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/9158
-
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL CRIME FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.CRIME.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: RTL CRIME FHD
 http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/11157
-
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL LIVING" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.LIVING.png" group-title="DE åš?i,[] DEUTSCHLAND",DE: RTL LIVING
-#EXTINF:-1 tvg-id="" tvg-name="DE: DEUTSCHLAND LOCAL" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO/DE/BAYRAK.png" group-title="DE åš?i,[] DEUTSCHLAND",åš?i,[] DEUTSCHLAND LOCAL åš?i
-http://strscr1912.xyz:2095/fth7801pc/fftt2004gg00/134700
 
 #EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL NITRO FHD" tvg-
 logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/DE/DEUTSCHLAND/RTL.NITRO.png" group-title="DE åš?i,[] DEUTSCHLAND",DE:
